@@ -1,0 +1,1316 @@
+GERAÇÃO 1
+Melhor fitness: -676
+Casa com melhor fitness:
+           Cozinha - Portas = [1, 0, 0, 0] - Janelas = [0, 1, 0, 1]
+          Banheiro - Portas = [1, 0, 0, 1] - Janelas = [0, 1, 0, 0]
+            Closet - Portas = [0, 0, 0, 1] - Janelas = [0, 0, 0, 0]
+        Lavanderia - Portas = [2, 0, 1, 1] - Janelas = [0, 0, 0, 0]
+            Quarto - Portas = [0, 1, 0, 1] - Janelas = [0, 0, 1, 0]
+          Banheiro - Portas = [0, 0, 2, 1] - Janelas = [1, 1, 0, 1]
+            Closet - Portas = [0, 2, 2, 1] - Janelas = [0, 1, 0, 1]
+     Sala De Estar - Portas = [1, 0, 0, 1] - Janelas = [0, 1, 0, 0]
+        Lavanderia - Portas = [2, 2, 1, 2] - Janelas = [1, 0, 0, 0]
+            Quarto - Portas = [1, 1, 1, 2] - Janelas = [1, 1, 1, 0]
+     Sala De Jogos - Portas = [0, 2, 1, 0] - Janelas = [0, 0, 1, 0]
+    Sala De Jantar - Portas = [0, 0, 1, 0] - Janelas = [0, 1, 0, 1]
+
+GERAÇÃO 2
+Melhor fitness: -676
+Casa com melhor fitness:
+           Cozinha - Portas = [1, 0, 0, 1] - Janelas = [0, 1, 0, 0]
+     Sala De Estar - Portas = [0, 0, 0, 1] - Janelas = [0, 1, 1, 0]
+            Closet - Portas = [0, 0, 0, 1] - Janelas = [0, 0, 0, 0]
+     Sala De Estar - Portas = [0, 0, 2, 1] - Janelas = [0, 0, 0, 0]
+            Quarto - Portas = [0, 0, 0, 1] - Janelas = [0, 1, 1, 0]
+            Quarto - Portas = [0, 0, 2, 1] - Janelas = [1, 1, 0, 0]
+            Closet - Portas = [0, 2, 2, 1] - Janelas = [0, 1, 0, 0]
+     Sala De Estar - Portas = [0, 0, 2, 1] - Janelas = [0, 1, 0, 0]
+        Lavanderia - Portas = [1, 1, 1, 2] - Janelas = [1, 0, 0, 0]
+            Quarto - Portas = [1, 1, 1, 1] - Janelas = [0, 1, 1, 0]
+     Sala De Jogos - Portas = [0, 2, 1, 0] - Janelas = [1, 0, 0, 1]
+    Sala De Jantar - Portas = [0, 0, 2, 0] - Janelas = [0, 1, 0, 1]
+
+GERAÇÃO 3
+Melhor fitness: -676
+Casa com melhor fitness:
+           Cozinha - Portas = [0, 0, 0, 1] - Janelas = [0, 0, 1, 0]
+            Quarto - Portas = [0, 0, 0, 1] - Janelas = [0, 0, 1, 0]
+            Closet - Portas = [0, 0, 0, 1] - Janelas = [0, 0, 1, 0]
+     Sala De Estar - Portas = [0, 0, 0, 1] - Janelas = [0, 0, 0, 0]
+            Quarto - Portas = [0, 0, 0, 1] - Janelas = [0, 1, 1, 0]
+            Quarto - Portas = [0, 0, 2, 1] - Janelas = [1, 1, 0, 0]
+            Closet - Portas = [0, 2, 2, 1] - Janelas = [0, 1, 0, 0]
+     Sala De Jogos - Portas = [0, 0, 0, 1] - Janelas = [0, 1, 0, 0]
+        Lavanderia - Portas = [1, 1, 2, 2] - Janelas = [1, 0, 0, 0]
+            Quarto - Portas = [1, 1, 1, 1] - Janelas = [0, 1, 1, 0]
+     Sala De Jogos - Portas = [0, 1, 1, 0] - Janelas = [1, 0, 0, 1]
+    Sala De Jantar - Portas = [1, 0, 2, 0] - Janelas = [0, 1, 0, 1]
+
+GERAÇÃO 4
+Melhor fitness: -676
+Casa com melhor fitness:
+           Cozinha - Portas = [0, 0, 0, 1] - Janelas = [0, 0, 1, 0]
+            Quarto - Portas = [0, 0, 0, 1] - Janelas = [0, 0, 1, 0]
+            Closet - Portas = [0, 0, 0, 1] - Janelas = [0, 0, 1, 0]
+     Sala De Estar - Portas = [0, 0, 0, 1] - Janelas = [0, 0, 0, 0]
+            Quarto - Portas = [0, 0, 0, 1] - Janelas = [0, 1, 1, 0]
+            Quarto - Portas = [0, 0, 2, 1] - Janelas = [1, 1, 0, 0]
+     Sala De Jogos - Portas = [0, 0, 2, 1] - Janelas = [0, 1, 0, 0]
+     Sala De Jogos - Portas = [0, 0, 2, 1] - Janelas = [0, 1, 0, 0]
+        Lavanderia - Portas = [1, 1, 2, 2] - Janelas = [1, 0, 0, 0]
+            Quarto - Portas = [1, 1, 1, 1] - Janelas = [0, 1, 0, 0]
+     Sala De Jogos - Portas = [0, 1, 1, 0] - Janelas = [1, 0, 0, 1]
+    Sala De Jantar - Portas = [1, 0, 2, 0] - Janelas = [0, 1, 0, 1]
+
+GERAÇÃO 5
+Melhor fitness: -676
+Casa com melhor fitness:
+           Cozinha - Portas = [0, 0, 0, 1] - Janelas = [0, 0, 1, 0]
+            Closet - Portas = [0, 0, 0, 1] - Janelas = [0, 0, 1, 0]
+            Quarto - Portas = [0, 0, 0, 1] - Janelas = [0, 0, 1, 0]
+     Sala De Estar - Portas = [0, 0, 0, 1] - Janelas = [0, 0, 0, 0]
+            Quarto - Portas = [0, 0, 0, 1] - Janelas = [0, 1, 1, 0]
+    Sala De Jantar - Portas = [0, 0, 2, 1] - Janelas = [1, 0, 0, 0]
+     Sala De Jogos - Portas = [0, 0, 2, 1] - Janelas = [0, 1, 0, 0]
+     Sala De Jogos - Portas = [0, 0, 0, 1] - Janelas = [0, 1, 0, 0]
+        Lavanderia - Portas = [1, 1, 2, 2] - Janelas = [1, 0, 0, 0]
+            Quarto - Portas = [1, 1, 1, 1] - Janelas = [0, 1, 0, 0]
+     Sala De Jogos - Portas = [0, 1, 1, 0] - Janelas = [1, 0, 0, 1]
+    Sala De Jantar - Portas = [1, 0, 2, 0] - Janelas = [0, 1, 0, 1]
+
+GERAÇÃO 6
+Melhor fitness: -676
+Casa com melhor fitness:
+           Cozinha - Portas = [0, 0, 0, 1] - Janelas = [0, 0, 1, 0]
+            Closet - Portas = [0, 0, 0, 1] - Janelas = [0, 0, 1, 0]
+            Quarto - Portas = [0, 0, 0, 1] - Janelas = [0, 0, 1, 0]
+     Sala De Estar - Portas = [0, 0, 0, 1] - Janelas = [0, 0, 0, 0]
+            Quarto - Portas = [0, 0, 0, 1] - Janelas = [0, 1, 1, 0]
+    Sala De Jantar - Portas = [0, 0, 2, 1] - Janelas = [1, 0, 0, 0]
+     Sala De Jogos - Portas = [0, 0, 2, 1] - Janelas = [0, 1, 0, 0]
+     Sala De Jogos - Portas = [0, 0, 2, 1] - Janelas = [0, 1, 0, 0]
+        Lavanderia - Portas = [1, 1, 2, 1] - Janelas = [1, 0, 0, 0]
+            Quarto - Portas = [1, 1, 1, 1] - Janelas = [0, 1, 0, 0]
+     Sala De Jogos - Portas = [0, 1, 1, 0] - Janelas = [1, 0, 0, 1]
+    Sala De Jantar - Portas = [1, 0, 2, 0] - Janelas = [0, 1, 0, 1]
+
+GERAÇÃO 7
+Melhor fitness: -676
+Casa com melhor fitness:
+           Cozinha - Portas = [0, 0, 0, 1] - Janelas = [0, 0, 0, 0]
+            Closet - Portas = [0, 0, 0, 1] - Janelas = [0, 0, 1, 0]
+            Quarto - Portas = [0, 0, 0, 1] - Janelas = [0, 0, 1, 0]
+    Sala De Jantar - Portas = [0, 0, 0, 1] - Janelas = [0, 0, 0, 0]
+            Quarto - Portas = [0, 0, 0, 1] - Janelas = [0, 1, 0, 0]
+    Sala De Jantar - Portas = [0, 0, 2, 1] - Janelas = [1, 0, 0, 0]
+     Sala De Jogos - Portas = [0, 0, 2, 1] - Janelas = [0, 1, 0, 0]
+            Quarto - Portas = [0, 0, 0, 1] - Janelas = [0, 1, 1, 0]
+     Sala De Jogos - Portas = [1, 1, 2, 2] - Janelas = [1, 0, 0, 0]
+            Quarto - Portas = [1, 1, 1, 1] - Janelas = [0, 1, 0, 0]
+     Sala De Jogos - Portas = [0, 1, 1, 0] - Janelas = [1, 0, 0, 1]
+    Sala De Jantar - Portas = [1, 0, 2, 0] - Janelas = [0, 1, 0, 1]
+
+GERAÇÃO 8
+Melhor fitness: -196
+Casa com melhor fitness:
+           Cozinha - Portas = [0, 0, 0, 1] - Janelas = [0, 0, 0, 0]
+        Lavanderia - Portas = [0, 0, 0, 1] - Janelas = [0, 0, 1, 0]
+     Sala De Estar - Portas = [0, 0, 0, 1] - Janelas = [0, 0, 1, 0]
+            Closet - Portas = [0, 0, 0, 1] - Janelas = [0, 0, 0, 0]
+     Sala De Estar - Portas = [0, 0, 0, 1] - Janelas = [0, 1, 1, 0]
+           Cozinha - Portas = [0, 0, 2, 1] - Janelas = [1, 0, 0, 0]
+     Sala De Estar - Portas = [0, 0, 2, 1] - Janelas = [0, 1, 0, 0]
+          Banheiro - Portas = [0, 0, 1, 1] - Janelas = [0, 1, 0, 0]
+          Banheiro - Portas = [1, 1, 2, 2] - Janelas = [1, 0, 0, 0]
+           Cozinha - Portas = [1, 1, 1, 1] - Janelas = [0, 1, 0, 0]
+    Sala De Jantar - Portas = [0, 1, 1, 0] - Janelas = [1, 0, 0, 1]
+    Sala De Jantar - Portas = [1, 0, 2, 0] - Janelas = [0, 1, 0, 1]
+
+GERAÇÃO 9
+Melhor fitness: 0
+Casa com melhor fitness:
+            Quarto - Portas = [0, 0, 0, 1] - Janelas = [0, 0, 0, 0]
+     Sala De Estar - Portas = [0, 0, 0, 1] - Janelas = [0, 0, 1, 0]
+           Cozinha - Portas = [0, 0, 0, 1] - Janelas = [0, 0, 1, 0]
+            Closet - Portas = [0, 0, 0, 1] - Janelas = [0, 0, 0, 0]
+     Sala De Estar - Portas = [0, 0, 0, 1] - Janelas = [0, 1, 1, 0]
+            Closet - Portas = [0, 0, 2, 1] - Janelas = [1, 0, 0, 0]
+            Closet - Portas = [0, 0, 2, 1] - Janelas = [0, 1, 0, 0]
+            Quarto - Portas = [0, 0, 1, 1] - Janelas = [0, 1, 0, 0]
+        Lavanderia - Portas = [1, 1, 2, 2] - Janelas = [1, 0, 0, 0]
+            Quarto - Portas = [1, 1, 1, 1] - Janelas = [0, 1, 0, 0]
+     Sala De Jogos - Portas = [0, 1, 1, 0] - Janelas = [1, 0, 0, 1]
+    Sala De Jantar - Portas = [1, 0, 2, 0] - Janelas = [0, 1, 0, 1]
+
+GERAÇÃO 10
+Melhor fitness: 0
+Casa com melhor fitness:
+            Quarto - Portas = [0, 0, 0, 1] - Janelas = [0, 0, 0, 0]
+     Sala De Estar - Portas = [0, 0, 0, 1] - Janelas = [0, 0, 1, 0]
+           Cozinha - Portas = [0, 0, 0, 1] - Janelas = [0, 0, 1, 0]
+        Lavanderia - Portas = [0, 0, 0, 1] - Janelas = [0, 0, 0, 0]
+     Sala De Estar - Portas = [0, 0, 0, 1] - Janelas = [0, 1, 1, 0]
+            Closet - Portas = [0, 0, 2, 1] - Janelas = [1, 0, 0, 0]
+            Closet - Portas = [0, 0, 2, 1] - Janelas = [0, 0, 0, 0]
+            Quarto - Portas = [0, 0, 1, 1] - Janelas = [0, 1, 0, 0]
+        Lavanderia - Portas = [1, 1, 2, 0] - Janelas = [1, 1, 0, 0]
+            Quarto - Portas = [1, 1, 1, 1] - Janelas = [0, 1, 0, 0]
+     Sala De Jogos - Portas = [0, 1, 1, 0] - Janelas = [1, 0, 0, 1]
+    Sala De Jantar - Portas = [1, 0, 2, 0] - Janelas = [0, 1, 0, 1]
+
+GERAÇÃO 11
+Melhor fitness: 0
+Casa com melhor fitness:
+            Quarto - Portas = [0, 0, 0, 1] - Janelas = [0, 0, 0, 0]
+     Sala De Estar - Portas = [0, 0, 0, 1] - Janelas = [0, 0, 1, 0]
+           Cozinha - Portas = [0, 0, 0, 1] - Janelas = [0, 0, 1, 0]
+        Lavanderia - Portas = [0, 1, 0, 1] - Janelas = [0, 1, 0, 0]
+     Sala De Estar - Portas = [0, 0, 0, 1] - Janelas = [0, 1, 1, 0]
+            Closet - Portas = [0, 0, 2, 1] - Janelas = [1, 0, 0, 0]
+            Closet - Portas = [0, 0, 2, 1] - Janelas = [1, 0, 0, 0]
+            Quarto - Portas = [0, 0, 1, 1] - Janelas = [0, 1, 0, 0]
+        Lavanderia - Portas = [1, 2, 2, 0] - Janelas = [0, 0, 0, 0]
+            Quarto - Portas = [1, 1, 1, 1] - Janelas = [0, 1, 0, 0]
+     Sala De Jogos - Portas = [0, 1, 1, 0] - Janelas = [1, 0, 0, 1]
+    Sala De Jantar - Portas = [1, 0, 2, 0] - Janelas = [0, 1, 0, 1]
+
+GERAÇÃO 12
+Melhor fitness: 0
+Casa com melhor fitness:
+        Lavanderia - Portas = [0, 0, 0, 1] - Janelas = [0, 0, 0, 0]
+     Sala De Estar - Portas = [0, 0, 0, 1] - Janelas = [0, 0, 1, 0]
+           Cozinha - Portas = [0, 0, 0, 1] - Janelas = [0, 0, 1, 0]
+        Lavanderia - Portas = [0, 0, 0, 1] - Janelas = [0, 0, 0, 0]
+           Cozinha - Portas = [0, 1, 0, 2] - Janelas = [0, 0, 1, 0]
+            Closet - Portas = [0, 0, 2, 1] - Janelas = [1, 0, 0, 0]
+            Closet - Portas = [0, 0, 2, 1] - Janelas = [1, 0, 0, 0]
+            Quarto - Portas = [0, 0, 1, 1] - Janelas = [0, 1, 0, 0]
+     Sala De Estar - Portas = [2, 2, 2, 0] - Janelas = [1, 0, 0, 0]
+            Quarto - Portas = [1, 1, 1, 1] - Janelas = [0, 1, 0, 0]
+     Sala De Jogos - Portas = [0, 1, 1, 0] - Janelas = [1, 0, 0, 1]
+    Sala De Jantar - Portas = [1, 0, 2, 0] - Janelas = [0, 1, 0, 1]
+
+GERAÇÃO 13
+Melhor fitness: 0
+Casa com melhor fitness:
+        Lavanderia - Portas = [0, 0, 0, 1] - Janelas = [0, 0, 0, 0]
+            Closet - Portas = [0, 0, 0, 1] - Janelas = [0, 0, 1, 0]
+           Cozinha - Portas = [0, 0, 0, 1] - Janelas = [0, 0, 1, 0]
+        Lavanderia - Portas = [0, 0, 0, 1] - Janelas = [0, 0, 1, 0]
+           Cozinha - Portas = [0, 2, 0, 0] - Janelas = [0, 1, 1, 0]
+            Closet - Portas = [0, 0, 2, 1] - Janelas = [1, 0, 0, 0]
+    Sala De Jantar - Portas = [0, 0, 2, 1] - Janelas = [1, 1, 0, 0]
+    Sala De Jantar - Portas = [0, 0, 1, 1] - Janelas = [0, 1, 0, 0]
+     Sala De Estar - Portas = [1, 1, 2, 1] - Janelas = [1, 0, 0, 0]
+            Quarto - Portas = [2, 1, 2, 1] - Janelas = [0, 1, 0, 0]
+     Sala De Jogos - Portas = [0, 1, 1, 0] - Janelas = [1, 0, 0, 1]
+    Sala De Jantar - Portas = [1, 0, 2, 0] - Janelas = [0, 1, 0, 1]
+
+GERAÇÃO 14
+Melhor fitness: 100
+Casa com melhor fitness:
+            Quarto - Portas = [0, 0, 0, 1] - Janelas = [0, 0, 0, 0]
+          Banheiro - Portas = [0, 0, 0, 1] - Janelas = [0, 0, 1, 0]
+          Banheiro - Portas = [0, 0, 0, 1] - Janelas = [0, 0, 1, 0]
+            Closet - Portas = [0, 0, 0, 1] - Janelas = [0, 0, 0, 0]
+            Closet - Portas = [0, 0, 0, 1] - Janelas = [0, 1, 1, 0]
+     Sala De Jogos - Portas = [0, 0, 2, 1] - Janelas = [1, 0, 0, 0]
+     Sala De Jogos - Portas = [0, 0, 2, 1] - Janelas = [0, 1, 0, 0]
+        Lavanderia - Portas = [0, 0, 1, 1] - Janelas = [0, 1, 0, 0]
+           Cozinha - Portas = [1, 1, 2, 2] - Janelas = [1, 0, 0, 0]
+            Quarto - Portas = [1, 1, 1, 1] - Janelas = [0, 1, 0, 0]
+     Sala De Jogos - Portas = [0, 1, 1, 0] - Janelas = [1, 0, 0, 1]
+    Sala De Jantar - Portas = [1, 0, 2, 0] - Janelas = [0, 1, 0, 1]
+
+GERAÇÃO 15
+Melhor fitness: 100
+Casa com melhor fitness:
+            Quarto - Portas = [0, 0, 0, 1] - Janelas = [0, 0, 0, 0]
+          Banheiro - Portas = [0, 0, 0, 1] - Janelas = [0, 0, 1, 0]
+          Banheiro - Portas = [0, 0, 0, 1] - Janelas = [0, 0, 1, 0]
+            Closet - Portas = [0, 0, 0, 1] - Janelas = [0, 0, 0, 0]
+            Closet - Portas = [0, 0, 1, 1] - Janelas = [1, 1, 1, 0]
+            Quarto - Portas = [0, 0, 2, 1] - Janelas = [1, 0, 0, 0]
+     Sala De Jogos - Portas = [0, 0, 2, 1] - Janelas = [0, 1, 0, 0]
+        Lavanderia - Portas = [0, 0, 1, 1] - Janelas = [0, 1, 0, 0]
+           Cozinha - Portas = [1, 1, 2, 2] - Janelas = [1, 0, 0, 0]
+            Quarto - Portas = [0, 1, 1, 1] - Janelas = [0, 1, 0, 0]
+     Sala De Jogos - Portas = [0, 1, 1, 0] - Janelas = [1, 0, 0, 1]
+    Sala De Jantar - Portas = [1, 0, 2, 0] - Janelas = [0, 1, 0, 1]
+
+GERAÇÃO 16
+Melhor fitness: 100
+Casa com melhor fitness:
+            Quarto - Portas = [0, 0, 0, 1] - Janelas = [0, 0, 0, 0]
+     Sala De Estar - Portas = [0, 0, 0, 1] - Janelas = [0, 0, 1, 0]
+          Banheiro - Portas = [0, 0, 0, 1] - Janelas = [0, 0, 1, 0]
+            Closet - Portas = [0, 0, 0, 1] - Janelas = [0, 0, 0, 0]
+            Closet - Portas = [0, 0, 0, 1] - Janelas = [0, 1, 1, 0]
+            Quarto - Portas = [0, 0, 2, 1] - Janelas = [1, 0, 0, 0]
+     Sala De Jogos - Portas = [0, 0, 2, 1] - Janelas = [0, 1, 0, 0]
+        Lavanderia - Portas = [0, 0, 1, 1] - Janelas = [0, 1, 0, 0]
+           Cozinha - Portas = [1, 0, 2, 0] - Janelas = [1, 0, 0, 0]
+            Quarto - Portas = [1, 1, 0, 1] - Janelas = [0, 1, 0, 0]
+     Sala De Jogos - Portas = [0, 1, 1, 0] - Janelas = [1, 0, 0, 1]
+    Sala De Jantar - Portas = [1, 0, 2, 0] - Janelas = [0, 1, 0, 1]
+
+GERAÇÃO 17
+Melhor fitness: 100
+Casa com melhor fitness:
+            Quarto - Portas = [0, 0, 0, 1] - Janelas = [0, 0, 0, 0]
+            Closet - Portas = [0, 0, 0, 1] - Janelas = [0, 0, 1, 0]
+          Banheiro - Portas = [0, 0, 0, 1] - Janelas = [0, 0, 1, 0]
+            Closet - Portas = [0, 0, 0, 1] - Janelas = [0, 0, 0, 0]
+            Closet - Portas = [0, 0, 0, 1] - Janelas = [0, 1, 1, 0]
+            Quarto - Portas = [0, 0, 2, 1] - Janelas = [1, 0, 0, 0]
+     Sala De Jogos - Portas = [2, 2, 1, 1] - Janelas = [0, 1, 0, 0]
+        Lavanderia - Portas = [0, 0, 1, 1] - Janelas = [0, 1, 0, 0]
+           Cozinha - Portas = [1, 1, 2, 2] - Janelas = [1, 0, 0, 0]
+            Quarto - Portas = [0, 0, 1, 1] - Janelas = [0, 0, 1, 0]
+     Sala De Jogos - Portas = [0, 1, 1, 0] - Janelas = [1, 0, 0, 1]
+    Sala De Jantar - Portas = [1, 0, 2, 0] - Janelas = [0, 1, 0, 1]
+
+GERAÇÃO 18
+Melhor fitness: 100
+Casa com melhor fitness:
+            Quarto - Portas = [0, 0, 0, 1] - Janelas = [0, 0, 0, 0]
+            Closet - Portas = [0, 0, 0, 1] - Janelas = [0, 0, 1, 0]
+            Closet - Portas = [0, 0, 0, 1] - Janelas = [0, 0, 1, 0]
+            Closet - Portas = [0, 0, 0, 1] - Janelas = [0, 0, 0, 0]
+            Closet - Portas = [0, 0, 0, 1] - Janelas = [0, 1, 1, 0]
+            Quarto - Portas = [0, 0, 2, 1] - Janelas = [1, 0, 0, 0]
+     Sala De Jogos - Portas = [2, 2, 2, 2] - Janelas = [1, 1, 0, 0]
+        Lavanderia - Portas = [0, 0, 1, 1] - Janelas = [0, 1, 0, 0]
+           Cozinha - Portas = [1, 1, 0, 1] - Janelas = [1, 1, 0, 0]
+            Quarto - Portas = [2, 0, 2, 1] - Janelas = [0, 1, 0, 0]
+     Sala De Jogos - Portas = [0, 1, 1, 0] - Janelas = [1, 0, 0, 1]
+    Sala De Jantar - Portas = [1, 0, 2, 0] - Janelas = [0, 1, 0, 1]
+
+GERAÇÃO 19
+Melhor fitness: 100
+Casa com melhor fitness:
+            Closet - Portas = [0, 0, 0, 1] - Janelas = [0, 0, 0, 0]
+     Sala De Estar - Portas = [0, 0, 0, 1] - Janelas = [0, 0, 1, 0]
+            Closet - Portas = [0, 0, 0, 1] - Janelas = [0, 0, 1, 0]
+            Closet - Portas = [0, 0, 0, 1] - Janelas = [0, 0, 0, 0]
+            Closet - Portas = [0, 0, 0, 1] - Janelas = [0, 1, 1, 0]
+            Quarto - Portas = [0, 0, 2, 1] - Janelas = [1, 0, 0, 0]
+     Sala De Estar - Portas = [0, 1, 2, 0] - Janelas = [1, 1, 0, 0]
+        Lavanderia - Portas = [0, 0, 1, 1] - Janelas = [0, 1, 0, 0]
+           Cozinha - Portas = [1, 1, 0, 1] - Janelas = [0, 0, 0, 0]
+            Quarto - Portas = [1, 1, 2, 0] - Janelas = [1, 0, 0, 0]
+     Sala De Jogos - Portas = [0, 1, 1, 0] - Janelas = [1, 0, 0, 1]
+    Sala De Jantar - Portas = [1, 0, 2, 0] - Janelas = [0, 1, 0, 1]
+
+GERAÇÃO 20
+Melhor fitness: 100
+Casa com melhor fitness:
+            Closet - Portas = [0, 0, 0, 1] - Janelas = [0, 0, 0, 0]
+     Sala De Estar - Portas = [0, 0, 0, 1] - Janelas = [0, 0, 1, 0]
+            Closet - Portas = [0, 0, 0, 1] - Janelas = [0, 0, 1, 0]
+          Banheiro - Portas = [0, 0, 0, 1] - Janelas = [0, 0, 0, 0]
+            Closet - Portas = [0, 0, 0, 1] - Janelas = [0, 1, 1, 0]
+            Quarto - Portas = [0, 0, 2, 1] - Janelas = [1, 0, 0, 0]
+            Quarto - Portas = [2, 1, 2, 2] - Janelas = [0, 1, 0, 0]
+        Lavanderia - Portas = [0, 0, 1, 1] - Janelas = [0, 1, 0, 0]
+           Cozinha - Portas = [1, 2, 0, 0] - Janelas = [1, 0, 0, 0]
+     Sala De Estar - Portas = [1, 1, 0, 1] - Janelas = [0, 1, 0, 0]
+     Sala De Jogos - Portas = [0, 1, 1, 0] - Janelas = [1, 0, 0, 1]
+    Sala De Jantar - Portas = [1, 0, 2, 0] - Janelas = [0, 1, 0, 1]
+
+GERAÇÃO 21
+Melhor fitness: 100
+Casa com melhor fitness:
+           Cozinha - Portas = [0, 0, 0, 1] - Janelas = [0, 0, 0, 0]
+     Sala De Estar - Portas = [1, 1, 2, 1] - Janelas = [0, 1, 0, 0]
+            Closet - Portas = [0, 0, 0, 1] - Janelas = [0, 0, 1, 0]
+          Banheiro - Portas = [0, 0, 0, 1] - Janelas = [0, 0, 0, 0]
+            Closet - Portas = [0, 0, 0, 1] - Janelas = [0, 1, 1, 0]
+            Quarto - Portas = [0, 0, 2, 1] - Janelas = [1, 0, 0, 0]
+            Quarto - Portas = [2, 1, 2, 1] - Janelas = [1, 1, 0, 0]
+        Lavanderia - Portas = [0, 0, 1, 1] - Janelas = [0, 1, 0, 0]
+           Cozinha - Portas = [1, 1, 0, 1] - Janelas = [1, 1, 0, 0]
+            Closet - Portas = [1, 2, 2, 1] - Janelas = [0, 1, 0, 0]
+     Sala De Jogos - Portas = [0, 1, 1, 0] - Janelas = [1, 0, 0, 1]
+    Sala De Jantar - Portas = [1, 0, 2, 0] - Janelas = [0, 1, 0, 1]
+
+GERAÇÃO 22
+Melhor fitness: 100
+Casa com melhor fitness:
+            Closet - Portas = [0, 0, 0, 1] - Janelas = [0, 0, 0, 0]
+     Sala De Estar - Portas = [0, 1, 1, 1] - Janelas = [0, 0, 1, 0]
+    Sala De Jantar - Portas = [0, 0, 0, 1] - Janelas = [0, 0, 1, 0]
+          Banheiro - Portas = [0, 0, 0, 1] - Janelas = [0, 0, 1, 0]
+           Cozinha - Portas = [0, 0, 0, 1] - Janelas = [0, 0, 0, 0]
+            Quarto - Portas = [0, 0, 2, 1] - Janelas = [1, 0, 0, 0]
+            Quarto - Portas = [1, 2, 2, 2] - Janelas = [0, 0, 0, 0]
+        Lavanderia - Portas = [0, 0, 1, 1] - Janelas = [0, 1, 0, 0]
+           Cozinha - Portas = [1, 1, 1, 1] - Janelas = [1, 1, 0, 0]
+            Closet - Portas = [1, 1, 0, 1] - Janelas = [0, 1, 0, 0]
+     Sala De Jogos - Portas = [0, 1, 1, 0] - Janelas = [1, 0, 0, 1]
+    Sala De Jantar - Portas = [1, 0, 2, 0] - Janelas = [0, 1, 0, 1]
+
+GERAÇÃO 23
+Melhor fitness: 100
+Casa com melhor fitness:
+            Closet - Portas = [0, 0, 0, 1] - Janelas = [0, 0, 0, 0]
+     Sala De Estar - Portas = [0, 0, 2, 1] - Janelas = [0, 0, 1, 0]
+    Sala De Jantar - Portas = [0, 0, 0, 1] - Janelas = [0, 0, 1, 0]
+        Lavanderia - Portas = [0, 0, 0, 1] - Janelas = [0, 0, 0, 0]
+           Cozinha - Portas = [0, 0, 0, 1] - Janelas = [0, 0, 0, 0]
+          Banheiro - Portas = [0, 0, 2, 1] - Janelas = [1, 0, 0, 0]
+            Quarto - Portas = [0, 0, 2, 2] - Janelas = [1, 1, 0, 0]
+        Lavanderia - Portas = [0, 0, 1, 1] - Janelas = [0, 1, 0, 0]
+           Cozinha - Portas = [2, 2, 0, 0] - Janelas = [1, 0, 0, 0]
+            Closet - Portas = [1, 1, 1, 1] - Janelas = [0, 1, 0, 0]
+     Sala De Jogos - Portas = [0, 1, 1, 0] - Janelas = [1, 0, 0, 1]
+    Sala De Jantar - Portas = [1, 0, 2, 0] - Janelas = [0, 1, 0, 1]
+
+GERAÇÃO 24
+Melhor fitness: 100
+Casa com melhor fitness:
+            Closet - Portas = [0, 0, 0, 1] - Janelas = [0, 0, 0, 0]
+     Sala De Estar - Portas = [0, 0, 1, 1] - Janelas = [0, 0, 1, 0]
+    Sala De Jantar - Portas = [0, 0, 0, 1] - Janelas = [0, 0, 1, 0]
+        Lavanderia - Portas = [0, 0, 0, 1] - Janelas = [0, 0, 0, 0]
+           Cozinha - Portas = [0, 0, 0, 1] - Janelas = [0, 0, 1, 0]
+          Banheiro - Portas = [0, 0, 2, 1] - Janelas = [1, 0, 0, 0]
+            Quarto - Portas = [1, 1, 1, 2] - Janelas = [0, 0, 0, 0]
+        Lavanderia - Portas = [0, 0, 1, 1] - Janelas = [0, 1, 0, 0]
+           Cozinha - Portas = [0, 0, 2, 1] - Janelas = [1, 0, 0, 0]
+            Closet - Portas = [1, 1, 1, 1] - Janelas = [0, 1, 0, 0]
+     Sala De Jogos - Portas = [0, 1, 1, 0] - Janelas = [1, 0, 0, 1]
+    Sala De Jantar - Portas = [1, 0, 2, 0] - Janelas = [0, 1, 0, 1]
+
+GERAÇÃO 25
+Melhor fitness: 100
+Casa com melhor fitness:
+            Closet - Portas = [0, 0, 0, 1] - Janelas = [0, 0, 0, 0]
+     Sala De Estar - Portas = [0, 0, 2, 1] - Janelas = [0, 0, 1, 0]
+            Closet - Portas = [0, 0, 2, 1] - Janelas = [0, 0, 1, 0]
+        Lavanderia - Portas = [0, 0, 0, 1] - Janelas = [0, 0, 0, 0]
+           Cozinha - Portas = [0, 0, 0, 1] - Janelas = [0, 0, 1, 0]
+          Banheiro - Portas = [0, 0, 2, 1] - Janelas = [1, 0, 0, 0]
+            Quarto - Portas = [1, 1, 2, 0] - Janelas = [0, 1, 0, 0]
+        Lavanderia - Portas = [0, 0, 1, 1] - Janelas = [0, 1, 0, 0]
+           Cozinha - Portas = [0, 2, 1, 0] - Janelas = [1, 0, 0, 0]
+    Sala De Jantar - Portas = [1, 1, 1, 1] - Janelas = [0, 1, 1, 0]
+     Sala De Jogos - Portas = [0, 1, 1, 0] - Janelas = [1, 0, 0, 1]
+    Sala De Jantar - Portas = [1, 0, 2, 0] - Janelas = [0, 1, 0, 1]
+
+GERAÇÃO 26
+Melhor fitness: 100
+Casa com melhor fitness:
+            Closet - Portas = [0, 0, 0, 1] - Janelas = [0, 0, 0, 0]
+     Sala De Estar - Portas = [0, 0, 0, 1] - Janelas = [0, 0, 1, 0]
+            Closet - Portas = [0, 0, 0, 1] - Janelas = [0, 0, 1, 0]
+           Cozinha - Portas = [0, 2, 0, 1] - Janelas = [0, 0, 0, 0]
+           Cozinha - Portas = [0, 0, 0, 1] - Janelas = [0, 0, 1, 0]
+          Banheiro - Portas = [0, 0, 2, 1] - Janelas = [1, 0, 0, 0]
+            Quarto - Portas = [2, 2, 2, 2] - Janelas = [0, 1, 0, 0]
+        Lavanderia - Portas = [0, 0, 1, 1] - Janelas = [0, 1, 0, 0]
+     Sala De Jogos - Portas = [2, 1, 2, 0] - Janelas = [0, 0, 0, 0]
+    Sala De Jantar - Portas = [1, 1, 1, 1] - Janelas = [0, 1, 0, 0]
+     Sala De Jogos - Portas = [0, 1, 1, 0] - Janelas = [1, 0, 0, 1]
+    Sala De Jantar - Portas = [1, 0, 2, 0] - Janelas = [0, 1, 0, 1]
+
+GERAÇÃO 27
+Melhor fitness: 100
+Casa com melhor fitness:
+            Closet - Portas = [0, 0, 0, 1] - Janelas = [0, 0, 0, 0]
+     Sala De Estar - Portas = [0, 0, 0, 1] - Janelas = [0, 0, 1, 0]
+            Closet - Portas = [0, 0, 0, 1] - Janelas = [0, 0, 1, 0]
+           Cozinha - Portas = [0, 2, 0, 1] - Janelas = [0, 0, 1, 0]
+           Cozinha - Portas = [0, 0, 0, 1] - Janelas = [0, 1, 1, 0]
+     Sala De Jogos - Portas = [0, 0, 2, 1] - Janelas = [1, 0, 0, 0]
+            Quarto - Portas = [1, 1, 2, 1] - Janelas = [0, 1, 0, 0]
+        Lavanderia - Portas = [0, 0, 1, 1] - Janelas = [0, 1, 0, 0]
+     Sala De Jogos - Portas = [1, 1, 2, 2] - Janelas = [0, 0, 0, 0]
+    Sala De Jantar - Portas = [1, 1, 1, 1] - Janelas = [0, 1, 0, 0]
+     Sala De Jogos - Portas = [0, 1, 1, 0] - Janelas = [1, 0, 0, 1]
+    Sala De Jantar - Portas = [1, 0, 2, 0] - Janelas = [0, 1, 0, 1]
+
+GERAÇÃO 28
+Melhor fitness: 100
+Casa com melhor fitness:
+            Closet - Portas = [0, 0, 0, 1] - Janelas = [0, 0, 0, 0]
+     Sala De Estar - Portas = [0, 0, 0, 1] - Janelas = [0, 0, 1, 0]
+            Closet - Portas = [0, 0, 0, 1] - Janelas = [0, 0, 1, 0]
+           Cozinha - Portas = [0, 0, 0, 1] - Janelas = [0, 0, 0, 0]
+     Sala De Jogos - Portas = [0, 0, 0, 1] - Janelas = [0, 1, 1, 0]
+     Sala De Jogos - Portas = [0, 0, 2, 1] - Janelas = [1, 0, 0, 0]
+            Closet - Portas = [0, 0, 2, 1] - Janelas = [0, 1, 0, 0]
+        Lavanderia - Portas = [0, 0, 1, 1] - Janelas = [0, 1, 0, 0]
+    Sala De Jantar - Portas = [1, 1, 0, 0] - Janelas = [1, 0, 0, 0]
+     Sala De Jogos - Portas = [1, 1, 0, 0] - Janelas = [0, 0, 0, 0]
+     Sala De Jogos - Portas = [0, 1, 1, 0] - Janelas = [1, 0, 0, 1]
+    Sala De Jantar - Portas = [1, 0, 2, 0] - Janelas = [0, 1, 0, 1]
+
+GERAÇÃO 29
+Melhor fitness: 100
+Casa com melhor fitness:
+            Closet - Portas = [0, 0, 0, 1] - Janelas = [0, 0, 0, 0]
+            Closet - Portas = [0, 0, 0, 1] - Janelas = [0, 0, 1, 0]
+            Closet - Portas = [0, 0, 0, 1] - Janelas = [0, 0, 1, 0]
+           Cozinha - Portas = [0, 0, 0, 1] - Janelas = [0, 0, 0, 0]
+     Sala De Estar - Portas = [0, 0, 0, 1] - Janelas = [0, 1, 1, 0]
+     Sala De Jogos - Portas = [0, 0, 2, 1] - Janelas = [1, 0, 0, 0]
+            Closet - Portas = [0, 0, 2, 1] - Janelas = [0, 1, 0, 0]
+        Lavanderia - Portas = [0, 0, 1, 1] - Janelas = [0, 1, 0, 0]
+    Sala De Jantar - Portas = [1, 1, 2, 2] - Janelas = [1, 0, 0, 0]
+     Sala De Jogos - Portas = [1, 1, 1, 1] - Janelas = [0, 1, 0, 0]
+     Sala De Jogos - Portas = [0, 1, 1, 0] - Janelas = [1, 0, 0, 1]
+    Sala De Jantar - Portas = [1, 0, 2, 0] - Janelas = [0, 1, 0, 1]
+
+GERAÇÃO 30
+Melhor fitness: 100
+Casa com melhor fitness:
+            Closet - Portas = [0, 0, 0, 1] - Janelas = [0, 0, 0, 0]
+            Closet - Portas = [0, 0, 0, 1] - Janelas = [0, 0, 1, 0]
+            Closet - Portas = [0, 0, 0, 1] - Janelas = [0, 0, 1, 0]
+           Cozinha - Portas = [0, 0, 0, 1] - Janelas = [0, 0, 0, 0]
+     Sala De Estar - Portas = [0, 0, 0, 1] - Janelas = [0, 1, 1, 0]
+     Sala De Jogos - Portas = [1, 1, 1, 1] - Janelas = [1, 1, 0, 0]
+            Closet - Portas = [0, 0, 2, 1] - Janelas = [0, 1, 0, 0]
+        Lavanderia - Portas = [0, 0, 1, 1] - Janelas = [0, 1, 0, 0]
+    Sala De Jantar - Portas = [1, 1, 2, 2] - Janelas = [1, 0, 0, 0]
+     Sala De Jogos - Portas = [2, 0, 0, 1] - Janelas = [0, 0, 0, 0]
+     Sala De Jogos - Portas = [0, 1, 1, 0] - Janelas = [1, 0, 0, 1]
+    Sala De Jantar - Portas = [1, 0, 2, 0] - Janelas = [0, 1, 0, 1]
+
+GERAÇÃO 31
+Melhor fitness: 100
+Casa com melhor fitness:
+        Lavanderia - Portas = [0, 0, 0, 1] - Janelas = [0, 0, 0, 0]
+            Closet - Portas = [0, 0, 0, 1] - Janelas = [0, 0, 1, 0]
+            Closet - Portas = [0, 0, 0, 1] - Janelas = [0, 0, 1, 0]
+           Cozinha - Portas = [0, 0, 0, 1] - Janelas = [0, 0, 0, 0]
+     Sala De Estar - Portas = [0, 0, 0, 1] - Janelas = [0, 1, 1, 0]
+     Sala De Jogos - Portas = [1, 1, 1, 1] - Janelas = [1, 1, 0, 0]
+            Closet - Portas = [0, 0, 2, 1] - Janelas = [1, 0, 0, 0]
+        Lavanderia - Portas = [0, 0, 1, 1] - Janelas = [0, 1, 0, 0]
+    Sala De Jantar - Portas = [1, 1, 2, 2] - Janelas = [1, 0, 0, 0]
+     Sala De Jogos - Portas = [0, 2, 2, 1] - Janelas = [0, 1, 0, 0]
+     Sala De Jogos - Portas = [0, 1, 1, 0] - Janelas = [1, 0, 0, 1]
+    Sala De Jantar - Portas = [1, 0, 2, 0] - Janelas = [0, 1, 0, 1]
+
+GERAÇÃO 32
+Melhor fitness: 100
+Casa com melhor fitness:
+        Lavanderia - Portas = [0, 0, 0, 1] - Janelas = [0, 0, 0, 0]
+            Quarto - Portas = [0, 0, 0, 1] - Janelas = [0, 0, 1, 0]
+            Closet - Portas = [0, 0, 0, 1] - Janelas = [0, 0, 1, 0]
+           Cozinha - Portas = [0, 0, 0, 1] - Janelas = [0, 0, 0, 0]
+     Sala De Estar - Portas = [0, 0, 0, 1] - Janelas = [0, 1, 1, 0]
+     Sala De Jogos - Portas = [1, 0, 2, 1] - Janelas = [0, 1, 0, 0]
+            Closet - Portas = [0, 0, 2, 1] - Janelas = [1, 1, 0, 0]
+        Lavanderia - Portas = [0, 0, 1, 1] - Janelas = [0, 1, 0, 0]
+          Banheiro - Portas = [1, 1, 2, 2] - Janelas = [1, 0, 0, 0]
+     Sala De Jogos - Portas = [2, 1, 0, 1] - Janelas = [0, 1, 0, 0]
+     Sala De Jogos - Portas = [0, 1, 1, 0] - Janelas = [1, 0, 0, 1]
+    Sala De Jantar - Portas = [1, 0, 2, 0] - Janelas = [0, 1, 0, 1]
+
+GERAÇÃO 33
+Melhor fitness: 100
+Casa com melhor fitness:
+        Lavanderia - Portas = [0, 0, 0, 1] - Janelas = [0, 0, 0, 0]
+    Sala De Jantar - Portas = [0, 0, 0, 1] - Janelas = [0, 0, 1, 0]
+            Closet - Portas = [0, 0, 0, 1] - Janelas = [0, 0, 1, 0]
+     Sala De Estar - Portas = [0, 0, 0, 1] - Janelas = [0, 0, 0, 0]
+     Sala De Jogos - Portas = [0, 0, 0, 1] - Janelas = [0, 1, 1, 0]
+     Sala De Jogos - Portas = [0, 1, 1, 1] - Janelas = [0, 1, 0, 0]
+            Closet - Portas = [0, 0, 2, 1] - Janelas = [0, 1, 0, 0]
+        Lavanderia - Portas = [0, 0, 1, 1] - Janelas = [0, 1, 0, 0]
+          Banheiro - Portas = [1, 1, 2, 2] - Janelas = [1, 0, 0, 0]
+     Sala De Jogos - Portas = [1, 1, 2, 1] - Janelas = [0, 1, 0, 0]
+     Sala De Jogos - Portas = [0, 1, 1, 0] - Janelas = [1, 0, 0, 1]
+    Sala De Jantar - Portas = [1, 0, 2, 0] - Janelas = [0, 1, 0, 1]
+
+GERAÇÃO 34
+Melhor fitness: 100
+Casa com melhor fitness:
+        Lavanderia - Portas = [0, 0, 0, 1] - Janelas = [0, 0, 0, 0]
+    Sala De Jantar - Portas = [0, 0, 0, 1] - Janelas = [0, 0, 1, 0]
+            Closet - Portas = [0, 0, 1, 1] - Janelas = [1, 0, 0, 0]
+           Cozinha - Portas = [0, 0, 0, 1] - Janelas = [0, 0, 0, 0]
+     Sala De Jogos - Portas = [0, 0, 0, 1] - Janelas = [0, 1, 1, 0]
+     Sala De Jogos - Portas = [1, 2, 2, 1] - Janelas = [0, 1, 0, 0]
+            Closet - Portas = [0, 0, 1, 1] - Janelas = [0, 1, 0, 0]
+     Sala De Jogos - Portas = [0, 0, 1, 1] - Janelas = [0, 1, 0, 0]
+          Banheiro - Portas = [1, 1, 2, 2] - Janelas = [1, 0, 0, 0]
+     Sala De Jogos - Portas = [1, 1, 1, 1] - Janelas = [0, 1, 0, 0]
+     Sala De Jogos - Portas = [0, 1, 1, 0] - Janelas = [1, 0, 0, 1]
+    Sala De Jantar - Portas = [1, 0, 2, 0] - Janelas = [0, 1, 0, 1]
+
+GERAÇÃO 35
+Melhor fitness: 100
+Casa com melhor fitness:
+        Lavanderia - Portas = [0, 0, 0, 1] - Janelas = [0, 0, 0, 0]
+     Sala De Jogos - Portas = [0, 0, 0, 1] - Janelas = [0, 0, 1, 0]
+            Closet - Portas = [0, 0, 2, 1] - Janelas = [0, 0, 1, 0]
+     Sala De Jogos - Portas = [0, 0, 0, 1] - Janelas = [0, 0, 0, 0]
+     Sala De Jogos - Portas = [0, 0, 0, 1] - Janelas = [0, 1, 1, 0]
+     Sala De Jogos - Portas = [1, 1, 1, 1] - Janelas = [0, 0, 0, 0]
+            Closet - Portas = [0, 0, 0, 1] - Janelas = [0, 1, 0, 0]
+           Cozinha - Portas = [0, 0, 1, 1] - Janelas = [0, 1, 0, 0]
+          Banheiro - Portas = [1, 1, 2, 2] - Janelas = [1, 0, 0, 0]
+     Sala De Jogos - Portas = [1, 1, 1, 1] - Janelas = [0, 1, 0, 0]
+     Sala De Jogos - Portas = [0, 1, 1, 0] - Janelas = [1, 0, 0, 1]
+    Sala De Jantar - Portas = [1, 0, 2, 0] - Janelas = [0, 1, 0, 1]
+
+GERAÇÃO 36
+Melhor fitness: 100
+Casa com melhor fitness:
+        Lavanderia - Portas = [0, 0, 0, 1] - Janelas = [0, 0, 0, 0]
+     Sala De Jogos - Portas = [0, 0, 0, 1] - Janelas = [0, 0, 1, 0]
+            Closet - Portas = [0, 0, 1, 1] - Janelas = [0, 0, 0, 0]
+     Sala De Jogos - Portas = [0, 0, 0, 1] - Janelas = [0, 0, 0, 0]
+     Sala De Jogos - Portas = [0, 0, 0, 1] - Janelas = [0, 1, 1, 0]
+     Sala De Jogos - Portas = [0, 2, 2, 1] - Janelas = [0, 0, 0, 0]
+            Closet - Portas = [0, 0, 2, 1] - Janelas = [0, 1, 0, 0]
+           Cozinha - Portas = [0, 0, 1, 1] - Janelas = [0, 1, 0, 0]
+          Banheiro - Portas = [1, 1, 2, 2] - Janelas = [1, 0, 0, 0]
+     Sala De Jogos - Portas = [1, 1, 1, 1] - Janelas = [0, 1, 0, 0]
+     Sala De Jogos - Portas = [0, 1, 1, 0] - Janelas = [1, 0, 0, 1]
+    Sala De Jantar - Portas = [1, 0, 2, 0] - Janelas = [0, 1, 0, 1]
+
+GERAÇÃO 37
+Melhor fitness: 100
+Casa com melhor fitness:
+    Sala De Jantar - Portas = [0, 0, 0, 1] - Janelas = [0, 0, 0, 0]
+     Sala De Jogos - Portas = [0, 0, 0, 1] - Janelas = [0, 0, 1, 0]
+        Lavanderia - Portas = [0, 0, 1, 1] - Janelas = [0, 0, 0, 0]
+     Sala De Jogos - Portas = [0, 0, 0, 1] - Janelas = [0, 0, 0, 0]
+     Sala De Jogos - Portas = [0, 0, 0, 1] - Janelas = [0, 1, 1, 0]
+     Sala De Jogos - Portas = [0, 1, 2, 1] - Janelas = [1, 0, 0, 0]
+            Closet - Portas = [0, 0, 2, 1] - Janelas = [0, 1, 0, 0]
+           Cozinha - Portas = [0, 0, 1, 1] - Janelas = [0, 1, 0, 0]
+          Banheiro - Portas = [1, 1, 2, 2] - Janelas = [1, 0, 0, 0]
+     Sala De Jogos - Portas = [1, 1, 1, 1] - Janelas = [0, 1, 0, 0]
+     Sala De Jogos - Portas = [0, 1, 1, 0] - Janelas = [1, 0, 0, 1]
+    Sala De Jantar - Portas = [1, 0, 2, 0] - Janelas = [0, 1, 0, 1]
+
+GERAÇÃO 38
+Melhor fitness: 100
+Casa com melhor fitness:
+            Closet - Portas = [0, 0, 0, 1] - Janelas = [0, 0, 0, 0]
+     Sala De Jogos - Portas = [0, 0, 0, 1] - Janelas = [0, 0, 1, 0]
+           Cozinha - Portas = [0, 0, 0, 1] - Janelas = [0, 0, 0, 0]
+     Sala De Estar - Portas = [0, 0, 0, 1] - Janelas = [0, 0, 0, 0]
+     Sala De Jogos - Portas = [0, 0, 0, 1] - Janelas = [0, 1, 1, 0]
+     Sala De Jogos - Portas = [0, 2, 2, 1] - Janelas = [1, 0, 0, 0]
+            Closet - Portas = [0, 0, 2, 1] - Janelas = [0, 1, 0, 0]
+           Cozinha - Portas = [0, 0, 1, 1] - Janelas = [0, 1, 0, 0]
+          Banheiro - Portas = [1, 1, 2, 2] - Janelas = [1, 0, 0, 0]
+     Sala De Jogos - Portas = [1, 1, 1, 1] - Janelas = [0, 1, 0, 0]
+     Sala De Jogos - Portas = [0, 1, 1, 0] - Janelas = [1, 0, 0, 1]
+    Sala De Jantar - Portas = [1, 0, 2, 0] - Janelas = [0, 1, 0, 1]
+
+GERAÇÃO 39
+Melhor fitness: 100
+Casa com melhor fitness:
+            Closet - Portas = [0, 0, 0, 1] - Janelas = [0, 0, 0, 0]
+     Sala De Jogos - Portas = [0, 0, 0, 1] - Janelas = [0, 0, 1, 0]
+    Sala De Jantar - Portas = [0, 0, 0, 1] - Janelas = [0, 0, 1, 0]
+            Closet - Portas = [0, 0, 1, 1] - Janelas = [0, 0, 0, 0]
+     Sala De Jogos - Portas = [0, 0, 0, 1] - Janelas = [0, 1, 1, 0]
+     Sala De Jogos - Portas = [0, 1, 2, 1] - Janelas = [1, 0, 0, 0]
+     Sala De Estar - Portas = [0, 0, 1, 1] - Janelas = [0, 1, 0, 0]
+           Cozinha - Portas = [0, 0, 1, 1] - Janelas = [0, 1, 0, 0]
+          Banheiro - Portas = [1, 1, 2, 2] - Janelas = [1, 0, 0, 0]
+     Sala De Jogos - Portas = [1, 1, 1, 1] - Janelas = [0, 1, 0, 0]
+     Sala De Jogos - Portas = [0, 1, 1, 0] - Janelas = [1, 0, 0, 1]
+    Sala De Jantar - Portas = [1, 0, 2, 0] - Janelas = [0, 1, 0, 1]
+
+GERAÇÃO 40
+Melhor fitness: 100
+Casa com melhor fitness:
+        Lavanderia - Portas = [0, 0, 0, 1] - Janelas = [0, 0, 0, 0]
+     Sala De Jogos - Portas = [2, 0, 0, 1] - Janelas = [0, 1, 1, 0]
+    Sala De Jantar - Portas = [0, 0, 0, 1] - Janelas = [0, 0, 1, 0]
+            Closet - Portas = [0, 0, 2, 1] - Janelas = [0, 0, 0, 0]
+    Sala De Jantar - Portas = [0, 0, 0, 1] - Janelas = [0, 1, 1, 0]
+     Sala De Jogos - Portas = [0, 0, 2, 1] - Janelas = [1, 0, 0, 0]
+     Sala De Estar - Portas = [0, 0, 0, 1] - Janelas = [0, 1, 0, 0]
+           Cozinha - Portas = [0, 0, 1, 1] - Janelas = [0, 1, 0, 0]
+          Banheiro - Portas = [1, 1, 2, 2] - Janelas = [1, 0, 0, 0]
+     Sala De Jogos - Portas = [2, 1, 2, 1] - Janelas = [0, 1, 0, 0]
+     Sala De Jogos - Portas = [0, 1, 1, 0] - Janelas = [1, 0, 0, 1]
+    Sala De Jantar - Portas = [1, 0, 2, 0] - Janelas = [0, 1, 0, 1]
+
+GERAÇÃO 41
+Melhor fitness: 100
+Casa com melhor fitness:
+        Lavanderia - Portas = [0, 0, 0, 1] - Janelas = [0, 0, 0, 0]
+     Sala De Jogos - Portas = [0, 0, 0, 1] - Janelas = [0, 1, 1, 0]
+    Sala De Jantar - Portas = [0, 0, 0, 1] - Janelas = [0, 0, 1, 0]
+            Closet - Portas = [0, 0, 1, 1] - Janelas = [0, 0, 0, 0]
+    Sala De Jantar - Portas = [0, 0, 0, 1] - Janelas = [0, 1, 1, 0]
+     Sala De Jogos - Portas = [0, 0, 2, 1] - Janelas = [1, 0, 0, 0]
+     Sala De Estar - Portas = [0, 0, 1, 1] - Janelas = [0, 1, 0, 0]
+     Sala De Estar - Portas = [0, 0, 1, 1] - Janelas = [0, 1, 0, 0]
+          Banheiro - Portas = [1, 1, 2, 2] - Janelas = [1, 0, 0, 0]
+     Sala De Jogos - Portas = [0, 1, 1, 1] - Janelas = [0, 1, 0, 0]
+     Sala De Jogos - Portas = [0, 1, 1, 0] - Janelas = [1, 0, 0, 1]
+    Sala De Jantar - Portas = [1, 0, 2, 0] - Janelas = [0, 1, 0, 1]
+
+GERAÇÃO 42
+Melhor fitness: 100
+Casa com melhor fitness:
+        Lavanderia - Portas = [0, 0, 0, 1] - Janelas = [0, 0, 0, 0]
+     Sala De Jogos - Portas = [0, 0, 0, 1] - Janelas = [0, 0, 1, 0]
+    Sala De Jantar - Portas = [0, 0, 0, 1] - Janelas = [0, 0, 1, 0]
+            Closet - Portas = [0, 0, 0, 1] - Janelas = [0, 0, 0, 0]
+    Sala De Jantar - Portas = [0, 0, 0, 1] - Janelas = [0, 1, 1, 0]
+     Sala De Jogos - Portas = [0, 0, 2, 1] - Janelas = [1, 0, 0, 0]
+     Sala De Estar - Portas = [0, 0, 0, 1] - Janelas = [0, 1, 0, 0]
+     Sala De Estar - Portas = [0, 0, 1, 1] - Janelas = [0, 1, 0, 0]
+     Sala De Jogos - Portas = [1, 1, 2, 0] - Janelas = [1, 0, 0, 0]
+          Banheiro - Portas = [1, 1, 1, 0] - Janelas = [0, 1, 0, 0]
+     Sala De Jogos - Portas = [0, 1, 1, 0] - Janelas = [1, 0, 0, 1]
+    Sala De Jantar - Portas = [1, 0, 2, 0] - Janelas = [0, 1, 0, 1]
+
+GERAÇÃO 43
+Melhor fitness: 100
+Casa com melhor fitness:
+          Banheiro - Portas = [0, 0, 0, 1] - Janelas = [0, 0, 0, 0]
+     Sala De Jogos - Portas = [0, 0, 0, 1] - Janelas = [0, 0, 1, 0]
+    Sala De Jantar - Portas = [0, 0, 0, 1] - Janelas = [0, 0, 1, 0]
+           Cozinha - Portas = [0, 0, 0, 1] - Janelas = [0, 0, 0, 0]
+          Banheiro - Portas = [0, 0, 0, 1] - Janelas = [0, 1, 1, 0]
+     Sala De Jogos - Portas = [0, 0, 2, 1] - Janelas = [1, 0, 0, 0]
+     Sala De Estar - Portas = [0, 0, 1, 1] - Janelas = [0, 1, 0, 0]
+     Sala De Estar - Portas = [0, 0, 1, 1] - Janelas = [0, 1, 0, 0]
+     Sala De Estar - Portas = [1, 1, 2, 1] - Janelas = [1, 0, 0, 0]
+          Banheiro - Portas = [1, 1, 1, 2] - Janelas = [0, 1, 0, 0]
+     Sala De Jogos - Portas = [0, 1, 1, 0] - Janelas = [1, 0, 0, 1]
+    Sala De Jantar - Portas = [1, 0, 2, 0] - Janelas = [0, 1, 0, 1]
+
+GERAÇÃO 44
+Melhor fitness: 100
+Casa com melhor fitness:
+          Banheiro - Portas = [0, 0, 0, 1] - Janelas = [0, 0, 0, 0]
+     Sala De Jogos - Portas = [0, 0, 0, 1] - Janelas = [0, 0, 1, 0]
+    Sala De Jantar - Portas = [0, 0, 0, 1] - Janelas = [0, 0, 1, 0]
+           Cozinha - Portas = [0, 0, 0, 1] - Janelas = [0, 0, 0, 0]
+          Banheiro - Portas = [0, 0, 0, 1] - Janelas = [0, 1, 1, 0]
+     Sala De Jogos - Portas = [0, 0, 2, 1] - Janelas = [1, 0, 0, 0]
+     Sala De Estar - Portas = [0, 0, 2, 1] - Janelas = [0, 1, 0, 0]
+     Sala De Estar - Portas = [0, 0, 1, 1] - Janelas = [0, 1, 0, 0]
+     Sala De Estar - Portas = [1, 1, 2, 0] - Janelas = [1, 0, 0, 0]
+          Banheiro - Portas = [1, 1, 1, 0] - Janelas = [0, 1, 0, 0]
+     Sala De Jogos - Portas = [0, 1, 1, 0] - Janelas = [1, 0, 0, 1]
+    Sala De Jantar - Portas = [1, 0, 2, 0] - Janelas = [0, 1, 0, 1]
+
+GERAÇÃO 45
+Melhor fitness: 100
+Casa com melhor fitness:
+          Banheiro - Portas = [0, 0, 0, 1] - Janelas = [0, 0, 0, 0]
+     Sala De Jogos - Portas = [0, 0, 0, 1] - Janelas = [0, 0, 1, 0]
+     Sala De Estar - Portas = [0, 0, 0, 1] - Janelas = [0, 1, 1, 0]
+           Cozinha - Portas = [0, 0, 0, 1] - Janelas = [0, 0, 0, 0]
+          Banheiro - Portas = [0, 0, 0, 1] - Janelas = [0, 1, 1, 0]
+           Cozinha - Portas = [0, 0, 2, 1] - Janelas = [1, 0, 0, 0]
+     Sala De Estar - Portas = [0, 0, 2, 1] - Janelas = [0, 1, 0, 0]
+    Sala De Jantar - Portas = [0, 0, 2, 1] - Janelas = [0, 0, 0, 0]
+     Sala De Estar - Portas = [1, 1, 2, 2] - Janelas = [1, 0, 0, 0]
+          Banheiro - Portas = [1, 1, 1, 1] - Janelas = [0, 1, 0, 0]
+     Sala De Jogos - Portas = [0, 1, 1, 0] - Janelas = [1, 0, 0, 1]
+    Sala De Jantar - Portas = [1, 0, 2, 0] - Janelas = [0, 1, 0, 1]
+
+GERAÇÃO 46
+Melhor fitness: 100
+Casa com melhor fitness:
+          Banheiro - Portas = [0, 0, 0, 1] - Janelas = [0, 0, 0, 0]
+     Sala De Jogos - Portas = [0, 0, 0, 1] - Janelas = [0, 0, 1, 0]
+    Sala De Jantar - Portas = [0, 0, 0, 1] - Janelas = [0, 1, 1, 0]
+           Cozinha - Portas = [0, 0, 0, 1] - Janelas = [0, 0, 0, 0]
+          Banheiro - Portas = [0, 0, 0, 1] - Janelas = [0, 1, 1, 0]
+           Cozinha - Portas = [0, 0, 2, 1] - Janelas = [1, 0, 0, 0]
+     Sala De Estar - Portas = [0, 0, 2, 1] - Janelas = [0, 1, 0, 0]
+    Sala De Jantar - Portas = [0, 0, 1, 1] - Janelas = [0, 0, 0, 0]
+     Sala De Estar - Portas = [1, 1, 2, 2] - Janelas = [1, 0, 0, 0]
+          Banheiro - Portas = [1, 1, 1, 1] - Janelas = [0, 1, 0, 0]
+     Sala De Jogos - Portas = [0, 1, 1, 0] - Janelas = [1, 0, 0, 1]
+    Sala De Jantar - Portas = [1, 0, 2, 0] - Janelas = [0, 1, 0, 1]
+
+GERAÇÃO 47
+Melhor fitness: 100
+Casa com melhor fitness:
+          Banheiro - Portas = [0, 0, 0, 1] - Janelas = [0, 0, 0, 0]
+     Sala De Jogos - Portas = [0, 0, 0, 1] - Janelas = [0, 0, 1, 0]
+           Cozinha - Portas = [0, 0, 0, 1] - Janelas = [0, 1, 1, 0]
+           Cozinha - Portas = [0, 0, 0, 1] - Janelas = [0, 0, 0, 0]
+     Sala De Jogos - Portas = [0, 0, 0, 1] - Janelas = [0, 1, 1, 0]
+           Cozinha - Portas = [0, 0, 2, 1] - Janelas = [1, 0, 0, 0]
+     Sala De Estar - Portas = [0, 0, 2, 1] - Janelas = [0, 1, 0, 0]
+     Sala De Estar - Portas = [0, 0, 1, 1] - Janelas = [0, 1, 0, 0]
+           Cozinha - Portas = [1, 1, 2, 2] - Janelas = [1, 0, 0, 0]
+          Banheiro - Portas = [1, 1, 1, 1] - Janelas = [0, 1, 0, 0]
+     Sala De Jogos - Portas = [0, 1, 1, 0] - Janelas = [1, 0, 0, 1]
+    Sala De Jantar - Portas = [1, 0, 2, 0] - Janelas = [0, 1, 0, 1]
+
+GERAÇÃO 48
+Melhor fitness: 100
+Casa com melhor fitness:
+          Banheiro - Portas = [0, 0, 0, 1] - Janelas = [0, 0, 0, 0]
+     Sala De Jogos - Portas = [0, 0, 0, 1] - Janelas = [0, 0, 1, 0]
+           Cozinha - Portas = [0, 0, 0, 1] - Janelas = [0, 0, 1, 0]
+           Cozinha - Portas = [0, 0, 0, 1] - Janelas = [0, 0, 0, 0]
+     Sala De Jogos - Portas = [0, 0, 0, 1] - Janelas = [0, 1, 1, 0]
+           Cozinha - Portas = [0, 0, 2, 1] - Janelas = [1, 0, 0, 0]
+     Sala De Estar - Portas = [0, 0, 2, 1] - Janelas = [0, 1, 0, 0]
+           Cozinha - Portas = [2, 0, 1, 0] - Janelas = [0, 1, 0, 0]
+     Sala De Estar - Portas = [1, 2, 0, 2] - Janelas = [0, 1, 0, 0]
+          Banheiro - Portas = [1, 1, 1, 1] - Janelas = [0, 1, 0, 0]
+     Sala De Jogos - Portas = [0, 1, 1, 0] - Janelas = [1, 0, 0, 1]
+    Sala De Jantar - Portas = [1, 0, 2, 0] - Janelas = [0, 1, 0, 1]
+
+GERAÇÃO 49
+Melhor fitness: 100
+Casa com melhor fitness:
+           Cozinha - Portas = [0, 0, 0, 1] - Janelas = [0, 0, 0, 0]
+     Sala De Jogos - Portas = [0, 0, 0, 1] - Janelas = [0, 0, 1, 0]
+           Cozinha - Portas = [0, 0, 0, 1] - Janelas = [0, 0, 1, 0]
+           Cozinha - Portas = [0, 0, 0, 1] - Janelas = [0, 0, 0, 0]
+     Sala De Jogos - Portas = [0, 0, 0, 1] - Janelas = [0, 1, 1, 0]
+          Banheiro - Portas = [0, 0, 2, 1] - Janelas = [0, 0, 0, 0]
+     Sala De Estar - Portas = [0, 0, 2, 1] - Janelas = [0, 1, 0, 0]
+           Cozinha - Portas = [0, 0, 1, 1] - Janelas = [0, 1, 0, 0]
+     Sala De Estar - Portas = [1, 1, 1, 2] - Janelas = [0, 0, 0, 0]
+          Banheiro - Portas = [1, 1, 1, 1] - Janelas = [0, 1, 0, 0]
+     Sala De Jogos - Portas = [0, 1, 1, 0] - Janelas = [1, 0, 0, 1]
+    Sala De Jantar - Portas = [1, 0, 2, 0] - Janelas = [0, 1, 0, 1]
+
+GERAÇÃO 50
+Melhor fitness: 100
+Casa com melhor fitness:
+           Cozinha - Portas = [0, 0, 0, 1] - Janelas = [0, 0, 0, 0]
+     Sala De Jogos - Portas = [0, 0, 0, 1] - Janelas = [0, 0, 1, 0]
+           Cozinha - Portas = [0, 0, 0, 1] - Janelas = [0, 0, 1, 0]
+           Cozinha - Portas = [0, 0, 0, 1] - Janelas = [0, 0, 0, 0]
+     Sala De Jogos - Portas = [0, 0, 0, 1] - Janelas = [0, 1, 1, 0]
+          Banheiro - Portas = [0, 0, 2, 1] - Janelas = [0, 0, 0, 0]
+     Sala De Estar - Portas = [0, 0, 2, 1] - Janelas = [0, 1, 0, 0]
+           Cozinha - Portas = [0, 0, 1, 1] - Janelas = [0, 1, 0, 0]
+     Sala De Estar - Portas = [1, 1, 0, 2] - Janelas = [1, 0, 0, 0]
+          Banheiro - Portas = [1, 1, 1, 1] - Janelas = [0, 0, 0, 0]
+     Sala De Jogos - Portas = [0, 1, 1, 0] - Janelas = [1, 0, 0, 1]
+    Sala De Jantar - Portas = [1, 0, 2, 0] - Janelas = [0, 1, 0, 1]
+
+GERAÇÃO 51
+Melhor fitness: 100
+Casa com melhor fitness:
+           Cozinha - Portas = [0, 0, 0, 1] - Janelas = [0, 0, 0, 0]
+     Sala De Jogos - Portas = [0, 0, 0, 1] - Janelas = [0, 0, 1, 0]
+           Cozinha - Portas = [0, 0, 0, 1] - Janelas = [0, 0, 1, 0]
+           Cozinha - Portas = [0, 0, 0, 1] - Janelas = [0, 0, 0, 0]
+    Sala De Jantar - Portas = [0, 0, 0, 1] - Janelas = [0, 1, 1, 0]
+          Banheiro - Portas = [0, 0, 2, 1] - Janelas = [0, 0, 0, 0]
+     Sala De Estar - Portas = [0, 0, 2, 1] - Janelas = [0, 1, 0, 0]
+           Cozinha - Portas = [0, 0, 1, 1] - Janelas = [0, 1, 0, 0]
+     Sala De Estar - Portas = [1, 1, 2, 2] - Janelas = [1, 0, 0, 0]
+          Banheiro - Portas = [1, 1, 1, 1] - Janelas = [0, 1, 0, 0]
+     Sala De Jogos - Portas = [0, 1, 1, 0] - Janelas = [1, 0, 0, 1]
+    Sala De Jantar - Portas = [1, 0, 2, 0] - Janelas = [0, 1, 0, 1]
+
+GERAÇÃO 52
+Melhor fitness: 100
+Casa com melhor fitness:
+           Cozinha - Portas = [0, 0, 0, 1] - Janelas = [0, 0, 0, 0]
+     Sala De Jogos - Portas = [0, 0, 0, 1] - Janelas = [0, 0, 1, 0]
+           Cozinha - Portas = [0, 0, 0, 1] - Janelas = [0, 0, 1, 0]
+           Cozinha - Portas = [0, 0, 0, 1] - Janelas = [0, 0, 0, 0]
+    Sala De Jantar - Portas = [0, 0, 0, 1] - Janelas = [0, 1, 1, 0]
+          Banheiro - Portas = [0, 0, 2, 1] - Janelas = [0, 0, 0, 0]
+     Sala De Estar - Portas = [0, 0, 2, 1] - Janelas = [0, 1, 0, 0]
+           Cozinha - Portas = [0, 0, 1, 1] - Janelas = [0, 1, 0, 0]
+     Sala De Estar - Portas = [1, 1, 2, 2] - Janelas = [1, 0, 0, 0]
+          Banheiro - Portas = [1, 1, 1, 1] - Janelas = [0, 1, 0, 0]
+     Sala De Jogos - Portas = [0, 1, 1, 0] - Janelas = [1, 0, 0, 1]
+    Sala De Jantar - Portas = [1, 0, 2, 0] - Janelas = [0, 1, 0, 1]
+
+GERAÇÃO 53
+Melhor fitness: 100
+Casa com melhor fitness:
+           Cozinha - Portas = [0, 0, 0, 1] - Janelas = [0, 0, 0, 0]
+           Cozinha - Portas = [0, 0, 1, 1] - Janelas = [0, 0, 0, 0]
+           Cozinha - Portas = [0, 0, 0, 1] - Janelas = [0, 0, 1, 0]
+           Cozinha - Portas = [0, 0, 0, 1] - Janelas = [0, 0, 0, 0]
+    Sala De Jantar - Portas = [0, 0, 0, 1] - Janelas = [0, 1, 1, 0]
+     Sala De Estar - Portas = [0, 0, 2, 1] - Janelas = [1, 0, 1, 0]
+     Sala De Estar - Portas = [0, 0, 2, 1] - Janelas = [0, 1, 0, 0]
+           Cozinha - Portas = [0, 0, 1, 1] - Janelas = [0, 1, 0, 0]
+    Sala De Jantar - Portas = [1, 1, 2, 2] - Janelas = [1, 0, 0, 0]
+          Banheiro - Portas = [1, 1, 1, 1] - Janelas = [0, 1, 0, 0]
+     Sala De Jogos - Portas = [0, 1, 1, 0] - Janelas = [1, 0, 0, 1]
+    Sala De Jantar - Portas = [1, 0, 2, 0] - Janelas = [0, 1, 0, 1]
+
+GERAÇÃO 54
+Melhor fitness: 100
+Casa com melhor fitness:
+    Sala De Jantar - Portas = [0, 0, 0, 1] - Janelas = [0, 1, 1, 0]
+           Cozinha - Portas = [0, 0, 2, 1] - Janelas = [0, 0, 0, 0]
+        Lavanderia - Portas = [0, 0, 0, 1] - Janelas = [0, 0, 1, 0]
+           Cozinha - Portas = [0, 0, 0, 1] - Janelas = [0, 0, 0, 0]
+           Cozinha - Portas = [0, 0, 0, 1] - Janelas = [0, 0, 0, 0]
+     Sala De Estar - Portas = [0, 0, 2, 1] - Janelas = [1, 0, 1, 0]
+     Sala De Estar - Portas = [0, 0, 2, 1] - Janelas = [0, 1, 0, 0]
+           Cozinha - Portas = [0, 0, 1, 1] - Janelas = [0, 1, 0, 0]
+    Sala De Jantar - Portas = [1, 1, 2, 2] - Janelas = [1, 0, 0, 0]
+          Banheiro - Portas = [1, 1, 1, 1] - Janelas = [0, 1, 0, 0]
+     Sala De Jogos - Portas = [0, 1, 1, 0] - Janelas = [1, 0, 0, 1]
+    Sala De Jantar - Portas = [1, 0, 2, 0] - Janelas = [0, 1, 0, 1]
+
+GERAÇÃO 55
+Melhor fitness: 100
+Casa com melhor fitness:
+    Sala De Jantar - Portas = [0, 0, 0, 1] - Janelas = [0, 0, 1, 0]
+     Sala De Estar - Portas = [0, 0, 1, 1] - Janelas = [0, 0, 0, 0]
+        Lavanderia - Portas = [0, 0, 0, 1] - Janelas = [0, 0, 1, 0]
+           Cozinha - Portas = [0, 0, 0, 1] - Janelas = [0, 0, 0, 0]
+           Cozinha - Portas = [0, 0, 0, 1] - Janelas = [0, 1, 0, 0]
+     Sala De Estar - Portas = [0, 0, 2, 1] - Janelas = [1, 0, 1, 0]
+     Sala De Jogos - Portas = [0, 0, 2, 1] - Janelas = [0, 1, 0, 0]
+           Cozinha - Portas = [0, 0, 1, 1] - Janelas = [0, 1, 0, 0]
+            Quarto - Portas = [1, 1, 2, 2] - Janelas = [1, 0, 0, 0]
+          Banheiro - Portas = [1, 1, 1, 1] - Janelas = [0, 1, 0, 0]
+     Sala De Jogos - Portas = [0, 1, 1, 0] - Janelas = [1, 0, 0, 1]
+    Sala De Jantar - Portas = [1, 0, 2, 0] - Janelas = [0, 1, 0, 1]
+
+GERAÇÃO 56
+Melhor fitness: 100
+Casa com melhor fitness:
+    Sala De Jantar - Portas = [0, 0, 0, 1] - Janelas = [0, 0, 0, 0]
+     Sala De Estar - Portas = [0, 0, 2, 1] - Janelas = [0, 0, 0, 0]
+           Cozinha - Portas = [0, 0, 2, 1] - Janelas = [0, 0, 1, 0]
+           Cozinha - Portas = [0, 0, 0, 1] - Janelas = [0, 0, 0, 0]
+           Cozinha - Portas = [0, 0, 0, 1] - Janelas = [0, 1, 1, 0]
+    Sala De Jantar - Portas = [0, 0, 2, 1] - Janelas = [1, 0, 0, 0]
+     Sala De Jogos - Portas = [0, 0, 2, 1] - Janelas = [0, 1, 0, 0]
+        Lavanderia - Portas = [0, 0, 2, 1] - Janelas = [0, 1, 0, 0]
+            Quarto - Portas = [1, 1, 2, 2] - Janelas = [1, 0, 0, 0]
+          Banheiro - Portas = [1, 1, 1, 1] - Janelas = [0, 1, 0, 0]
+     Sala De Jogos - Portas = [0, 1, 1, 0] - Janelas = [1, 0, 0, 1]
+    Sala De Jantar - Portas = [1, 0, 2, 0] - Janelas = [0, 1, 0, 1]
+
+GERAÇÃO 57
+Melhor fitness: 100
+Casa com melhor fitness:
+    Sala De Jantar - Portas = [0, 0, 0, 1] - Janelas = [0, 0, 0, 0]
+     Sala De Estar - Portas = [0, 0, 1, 1] - Janelas = [0, 0, 0, 0]
+           Cozinha - Portas = [0, 0, 1, 1] - Janelas = [0, 0, 1, 0]
+           Cozinha - Portas = [0, 0, 0, 1] - Janelas = [0, 0, 0, 0]
+           Cozinha - Portas = [0, 0, 0, 1] - Janelas = [0, 1, 1, 0]
+    Sala De Jantar - Portas = [0, 0, 2, 1] - Janelas = [1, 0, 0, 0]
+     Sala De Jogos - Portas = [0, 0, 2, 1] - Janelas = [0, 1, 0, 0]
+        Lavanderia - Portas = [0, 0, 0, 1] - Janelas = [0, 1, 0, 0]
+            Quarto - Portas = [1, 1, 2, 2] - Janelas = [1, 0, 0, 0]
+          Banheiro - Portas = [1, 1, 1, 1] - Janelas = [0, 1, 0, 0]
+     Sala De Jogos - Portas = [0, 1, 1, 0] - Janelas = [1, 0, 0, 1]
+    Sala De Jantar - Portas = [1, 0, 2, 0] - Janelas = [0, 1, 0, 1]
+
+GERAÇÃO 58
+Melhor fitness: 196
+Casa com melhor fitness:
+           Cozinha - Portas = [0, 0, 0, 1] - Janelas = [0, 0, 0, 0]
+            Quarto - Portas = [0, 0, 0, 1] - Janelas = [0, 0, 1, 0]
+     Sala De Estar - Portas = [0, 0, 0, 1] - Janelas = [0, 0, 1, 0]
+            Closet - Portas = [0, 0, 0, 1] - Janelas = [0, 0, 0, 0]
+        Lavanderia - Portas = [0, 0, 0, 1] - Janelas = [0, 1, 1, 0]
+     Sala De Jogos - Portas = [0, 0, 2, 1] - Janelas = [1, 0, 0, 0]
+            Quarto - Portas = [0, 0, 2, 1] - Janelas = [0, 1, 0, 0]
+        Lavanderia - Portas = [0, 0, 1, 1] - Janelas = [0, 1, 0, 0]
+     Sala De Estar - Portas = [1, 1, 2, 2] - Janelas = [1, 0, 0, 0]
+           Cozinha - Portas = [1, 1, 1, 1] - Janelas = [0, 1, 0, 0]
+     Sala De Jogos - Portas = [0, 1, 1, 0] - Janelas = [1, 0, 0, 1]
+    Sala De Jantar - Portas = [1, 0, 2, 0] - Janelas = [0, 1, 0, 1]
+
+GERAÇÃO 59
+Melhor fitness: 400
+Casa com melhor fitness:
+            Closet - Portas = [0, 0, 0, 1] - Janelas = [0, 0, 0, 0]
+           Cozinha - Portas = [0, 0, 0, 1] - Janelas = [0, 0, 1, 0]
+           Cozinha - Portas = [0, 0, 0, 1] - Janelas = [0, 0, 1, 0]
+            Closet - Portas = [0, 0, 0, 1] - Janelas = [0, 0, 0, 0]
+        Lavanderia - Portas = [0, 0, 0, 1] - Janelas = [0, 1, 1, 0]
+            Quarto - Portas = [0, 0, 2, 1] - Janelas = [1, 0, 0, 0]
+            Quarto - Portas = [0, 0, 2, 1] - Janelas = [0, 1, 0, 0]
+        Lavanderia - Portas = [0, 0, 1, 1] - Janelas = [0, 1, 0, 0]
+     Sala De Estar - Portas = [1, 1, 2, 2] - Janelas = [1, 0, 0, 0]
+            Quarto - Portas = [1, 1, 1, 1] - Janelas = [0, 1, 0, 0]
+     Sala De Jogos - Portas = [0, 1, 1, 0] - Janelas = [1, 0, 0, 1]
+    Sala De Jantar - Portas = [1, 0, 2, 0] - Janelas = [0, 1, 0, 1]
+
+GERAÇÃO 60
+Melhor fitness: 400
+Casa com melhor fitness:
+     Sala De Jogos - Portas = [0, 0, 0, 1] - Janelas = [0, 0, 0, 0]
+     Sala De Jogos - Portas = [0, 0, 0, 1] - Janelas = [0, 0, 1, 0]
+           Cozinha - Portas = [0, 0, 0, 1] - Janelas = [0, 0, 1, 0]
+            Closet - Portas = [0, 0, 0, 1] - Janelas = [0, 0, 0, 0]
+        Lavanderia - Portas = [0, 0, 0, 1] - Janelas = [0, 1, 1, 0]
+            Quarto - Portas = [0, 0, 2, 1] - Janelas = [1, 0, 0, 0]
+            Quarto - Portas = [0, 0, 2, 1] - Janelas = [0, 1, 0, 0]
+        Lavanderia - Portas = [0, 0, 1, 1] - Janelas = [0, 1, 0, 0]
+     Sala De Estar - Portas = [1, 1, 2, 2] - Janelas = [1, 0, 0, 0]
+            Quarto - Portas = [1, 1, 1, 1] - Janelas = [0, 1, 0, 0]
+     Sala De Jogos - Portas = [0, 1, 1, 0] - Janelas = [1, 0, 0, 1]
+    Sala De Jantar - Portas = [1, 0, 2, 0] - Janelas = [0, 1, 0, 1]
+
+GERAÇÃO 61
+Melhor fitness: 400
+Casa com melhor fitness:
+     Sala De Jogos - Portas = [0, 0, 0, 1] - Janelas = [0, 0, 0, 0]
+     Sala De Jogos - Portas = [0, 0, 0, 1] - Janelas = [0, 0, 1, 0]
+            Quarto - Portas = [0, 0, 1, 1] - Janelas = [0, 0, 0, 0]
+            Closet - Portas = [0, 0, 0, 1] - Janelas = [0, 0, 0, 0]
+        Lavanderia - Portas = [0, 0, 0, 1] - Janelas = [0, 1, 1, 0]
+            Quarto - Portas = [0, 0, 2, 1] - Janelas = [1, 0, 0, 0]
+            Quarto - Portas = [0, 0, 2, 1] - Janelas = [0, 1, 0, 0]
+        Lavanderia - Portas = [0, 0, 1, 1] - Janelas = [0, 1, 0, 0]
+     Sala De Estar - Portas = [1, 1, 2, 2] - Janelas = [1, 0, 0, 0]
+           Cozinha - Portas = [0, 0, 0, 1] - Janelas = [0, 1, 1, 0]
+     Sala De Jogos - Portas = [0, 1, 1, 0] - Janelas = [1, 0, 0, 1]
+    Sala De Jantar - Portas = [1, 0, 2, 0] - Janelas = [0, 1, 0, 1]
+
+GERAÇÃO 62
+Melhor fitness: 676
+Casa com melhor fitness:
+          Banheiro - Portas = [0, 0, 0, 1] - Janelas = [0, 0, 0, 0]
+          Banheiro - Portas = [0, 0, 0, 1] - Janelas = [0, 0, 1, 0]
+          Banheiro - Portas = [0, 0, 0, 1] - Janelas = [0, 0, 1, 0]
+            Closet - Portas = [0, 0, 0, 1] - Janelas = [0, 0, 0, 0]
+        Lavanderia - Portas = [0, 0, 0, 1] - Janelas = [0, 1, 1, 0]
+            Quarto - Portas = [0, 0, 2, 1] - Janelas = [1, 0, 0, 0]
+            Quarto - Portas = [0, 0, 2, 1] - Janelas = [0, 1, 0, 0]
+        Lavanderia - Portas = [0, 0, 1, 1] - Janelas = [0, 1, 0, 0]
+     Sala De Estar - Portas = [1, 1, 2, 2] - Janelas = [1, 0, 0, 0]
+           Cozinha - Portas = [1, 1, 1, 1] - Janelas = [0, 1, 0, 0]
+     Sala De Jogos - Portas = [0, 1, 1, 0] - Janelas = [1, 0, 0, 1]
+    Sala De Jantar - Portas = [1, 0, 2, 0] - Janelas = [0, 1, 0, 1]
+
+GERAÇÃO 63
+Melhor fitness: 676
+Casa com melhor fitness:
+          Banheiro - Portas = [0, 0, 0, 1] - Janelas = [0, 0, 0, 0]
+          Banheiro - Portas = [0, 0, 0, 1] - Janelas = [0, 0, 1, 0]
+          Banheiro - Portas = [0, 0, 0, 1] - Janelas = [0, 0, 1, 0]
+            Closet - Portas = [0, 0, 0, 1] - Janelas = [0, 0, 0, 0]
+        Lavanderia - Portas = [0, 0, 0, 1] - Janelas = [0, 1, 1, 0]
+            Quarto - Portas = [0, 0, 2, 1] - Janelas = [1, 0, 0, 0]
+     Sala De Jogos - Portas = [0, 0, 2, 1] - Janelas = [0, 1, 0, 0]
+        Lavanderia - Portas = [0, 0, 1, 1] - Janelas = [0, 1, 0, 0]
+     Sala De Estar - Portas = [1, 1, 2, 2] - Janelas = [1, 0, 0, 0]
+           Cozinha - Portas = [1, 1, 1, 1] - Janelas = [0, 1, 0, 0]
+     Sala De Jogos - Portas = [0, 1, 1, 0] - Janelas = [1, 0, 0, 1]
+    Sala De Jantar - Portas = [1, 0, 2, 0] - Janelas = [0, 1, 0, 1]
+
+GERAÇÃO 64
+Melhor fitness: 676
+Casa com melhor fitness:
+     Sala De Jogos - Portas = [0, 0, 0, 1] - Janelas = [0, 0, 0, 0]
+           Cozinha - Portas = [0, 0, 0, 1] - Janelas = [0, 0, 1, 0]
+          Banheiro - Portas = [0, 0, 0, 1] - Janelas = [0, 0, 1, 0]
+            Closet - Portas = [0, 0, 0, 1] - Janelas = [0, 0, 0, 0]
+        Lavanderia - Portas = [0, 0, 0, 1] - Janelas = [0, 1, 1, 0]
+            Quarto - Portas = [0, 0, 2, 1] - Janelas = [1, 0, 0, 0]
+          Banheiro - Portas = [0, 0, 2, 1] - Janelas = [0, 1, 0, 0]
+        Lavanderia - Portas = [0, 0, 1, 1] - Janelas = [0, 1, 0, 0]
+     Sala De Estar - Portas = [1, 1, 2, 2] - Janelas = [1, 0, 0, 0]
+           Cozinha - Portas = [1, 1, 1, 1] - Janelas = [0, 1, 0, 0]
+     Sala De Jogos - Portas = [0, 1, 1, 0] - Janelas = [1, 0, 0, 1]
+    Sala De Jantar - Portas = [1, 0, 2, 0] - Janelas = [0, 1, 0, 1]
+
+GERAÇÃO 65
+Melhor fitness: 676
+Casa com melhor fitness:
+    Sala De Jantar - Portas = [0, 0, 0, 1] - Janelas = [0, 0, 0, 0]
+           Cozinha - Portas = [0, 0, 2, 1] - Janelas = [0, 0, 1, 0]
+          Banheiro - Portas = [0, 0, 0, 1] - Janelas = [0, 0, 1, 0]
+            Closet - Portas = [0, 0, 0, 1] - Janelas = [0, 0, 0, 0]
+        Lavanderia - Portas = [0, 0, 0, 1] - Janelas = [0, 1, 1, 0]
+            Quarto - Portas = [0, 0, 2, 1] - Janelas = [1, 0, 0, 0]
+          Banheiro - Portas = [0, 0, 0, 1] - Janelas = [0, 1, 1, 0]
+        Lavanderia - Portas = [0, 0, 1, 1] - Janelas = [0, 1, 0, 0]
+     Sala De Estar - Portas = [1, 1, 2, 2] - Janelas = [1, 0, 0, 0]
+           Cozinha - Portas = [1, 1, 1, 1] - Janelas = [0, 1, 0, 0]
+     Sala De Jogos - Portas = [0, 1, 1, 0] - Janelas = [1, 0, 0, 1]
+    Sala De Jantar - Portas = [1, 0, 2, 0] - Janelas = [0, 1, 0, 1]
+
+GERAÇÃO 66
+Melhor fitness: 676
+Casa com melhor fitness:
+           Cozinha - Portas = [0, 0, 1, 1] - Janelas = [0, 0, 1, 0]
+    Sala De Jantar - Portas = [0, 0, 0, 1] - Janelas = [0, 0, 0, 0]
+          Banheiro - Portas = [0, 0, 0, 1] - Janelas = [0, 0, 1, 0]
+            Closet - Portas = [0, 0, 0, 1] - Janelas = [0, 0, 0, 0]
+        Lavanderia - Portas = [0, 0, 0, 1] - Janelas = [0, 1, 1, 0]
+            Quarto - Portas = [0, 0, 2, 1] - Janelas = [1, 0, 0, 0]
+          Banheiro - Portas = [0, 0, 0, 1] - Janelas = [0, 0, 0, 0]
+        Lavanderia - Portas = [0, 0, 1, 1] - Janelas = [0, 1, 0, 0]
+     Sala De Estar - Portas = [1, 1, 2, 2] - Janelas = [1, 0, 0, 0]
+           Cozinha - Portas = [1, 1, 1, 1] - Janelas = [0, 1, 0, 0]
+     Sala De Jogos - Portas = [0, 1, 1, 0] - Janelas = [1, 0, 0, 1]
+    Sala De Jantar - Portas = [1, 0, 2, 0] - Janelas = [0, 1, 0, 1]
+
+GERAÇÃO 67
+Melhor fitness: 676
+Casa com melhor fitness:
+            Closet - Portas = [0, 0, 0, 1] - Janelas = [0, 0, 1, 0]
+          Banheiro - Portas = [0, 0, 0, 1] - Janelas = [0, 0, 1, 0]
+          Banheiro - Portas = [0, 0, 0, 1] - Janelas = [0, 0, 1, 0]
+            Closet - Portas = [0, 0, 0, 1] - Janelas = [0, 0, 0, 0]
+        Lavanderia - Portas = [0, 0, 0, 1] - Janelas = [0, 1, 1, 0]
+            Quarto - Portas = [0, 0, 2, 1] - Janelas = [1, 0, 0, 0]
+    Sala De Jantar - Portas = [0, 0, 2, 1] - Janelas = [0, 1, 0, 0]
+        Lavanderia - Portas = [0, 0, 1, 1] - Janelas = [0, 1, 0, 0]
+     Sala De Estar - Portas = [1, 1, 2, 2] - Janelas = [1, 0, 0, 0]
+           Cozinha - Portas = [1, 1, 1, 1] - Janelas = [0, 1, 0, 0]
+     Sala De Jogos - Portas = [0, 1, 1, 0] - Janelas = [1, 0, 0, 1]
+    Sala De Jantar - Portas = [1, 0, 2, 0] - Janelas = [0, 1, 0, 1]
+
+GERAÇÃO 68
+Melhor fitness: 676
+Casa com melhor fitness:
+            Closet - Portas = [0, 0, 0, 1] - Janelas = [0, 0, 0, 0]
+          Banheiro - Portas = [0, 0, 1, 1] - Janelas = [0, 0, 0, 0]
+          Banheiro - Portas = [0, 0, 0, 1] - Janelas = [0, 0, 1, 0]
+            Closet - Portas = [0, 0, 0, 1] - Janelas = [0, 0, 0, 0]
+        Lavanderia - Portas = [0, 0, 0, 1] - Janelas = [0, 1, 1, 0]
+            Quarto - Portas = [0, 0, 2, 1] - Janelas = [1, 0, 0, 0]
+    Sala De Jantar - Portas = [0, 0, 2, 1] - Janelas = [0, 1, 0, 0]
+        Lavanderia - Portas = [0, 0, 1, 1] - Janelas = [0, 1, 0, 0]
+     Sala De Estar - Portas = [1, 1, 2, 2] - Janelas = [1, 0, 0, 0]
+           Cozinha - Portas = [1, 1, 1, 1] - Janelas = [0, 1, 0, 0]
+     Sala De Jogos - Portas = [0, 1, 1, 0] - Janelas = [1, 0, 0, 1]
+    Sala De Jantar - Portas = [1, 0, 2, 0] - Janelas = [0, 1, 0, 1]
+
+GERAÇÃO 69
+Melhor fitness: 676
+Casa com melhor fitness:
+     Sala De Estar - Portas = [0, 0, 0, 1] - Janelas = [0, 0, 0, 0]
+          Banheiro - Portas = [0, 0, 2, 1] - Janelas = [0, 0, 0, 0]
+          Banheiro - Portas = [0, 0, 0, 1] - Janelas = [0, 0, 1, 0]
+            Closet - Portas = [0, 0, 0, 1] - Janelas = [0, 0, 0, 0]
+    Sala De Jantar - Portas = [0, 0, 0, 1] - Janelas = [0, 1, 1, 0]
+            Quarto - Portas = [0, 0, 2, 1] - Janelas = [1, 0, 0, 0]
+    Sala De Jantar - Portas = [0, 0, 2, 1] - Janelas = [0, 1, 0, 0]
+        Lavanderia - Portas = [0, 0, 1, 1] - Janelas = [0, 1, 0, 0]
+     Sala De Estar - Portas = [1, 1, 2, 2] - Janelas = [1, 0, 0, 0]
+           Cozinha - Portas = [1, 1, 1, 1] - Janelas = [0, 1, 0, 0]
+     Sala De Jogos - Portas = [0, 1, 1, 0] - Janelas = [1, 0, 0, 1]
+    Sala De Jantar - Portas = [1, 0, 2, 0] - Janelas = [0, 1, 0, 1]
+
+GERAÇÃO 70
+Melhor fitness: 676
+Casa com melhor fitness:
+     Sala De Estar - Portas = [0, 0, 0, 1] - Janelas = [0, 0, 0, 0]
+          Banheiro - Portas = [2, 2, 0, 1] - Janelas = [0, 0, 1, 0]
+          Banheiro - Portas = [0, 0, 0, 1] - Janelas = [0, 0, 1, 0]
+            Closet - Portas = [0, 0, 0, 1] - Janelas = [0, 0, 0, 0]
+    Sala De Jantar - Portas = [0, 0, 0, 1] - Janelas = [0, 1, 1, 0]
+            Quarto - Portas = [0, 0, 2, 1] - Janelas = [1, 0, 0, 0]
+    Sala De Jantar - Portas = [0, 0, 2, 1] - Janelas = [0, 1, 0, 0]
+        Lavanderia - Portas = [0, 0, 1, 1] - Janelas = [0, 1, 0, 0]
+     Sala De Estar - Portas = [1, 1, 2, 2] - Janelas = [1, 0, 0, 0]
+           Cozinha - Portas = [1, 1, 1, 1] - Janelas = [0, 1, 0, 0]
+     Sala De Jogos - Portas = [0, 1, 1, 0] - Janelas = [1, 0, 0, 1]
+    Sala De Jantar - Portas = [1, 0, 2, 0] - Janelas = [0, 1, 0, 1]
+
+GERAÇÃO 71
+Melhor fitness: 676
+Casa com melhor fitness:
+    Sala De Jantar - Portas = [0, 0, 1, 1] - Janelas = [0, 0, 0, 0]
+          Banheiro - Portas = [1, 1, 2, 1] - Janelas = [0, 0, 0, 0]
+          Banheiro - Portas = [0, 0, 0, 1] - Janelas = [0, 0, 1, 0]
+            Closet - Portas = [0, 0, 0, 1] - Janelas = [0, 0, 0, 0]
+    Sala De Jantar - Portas = [0, 0, 0, 1] - Janelas = [0, 1, 1, 0]
+            Quarto - Portas = [0, 0, 2, 1] - Janelas = [1, 0, 0, 0]
+     Sala De Estar - Portas = [0, 0, 2, 1] - Janelas = [0, 1, 0, 0]
+        Lavanderia - Portas = [0, 0, 1, 1] - Janelas = [0, 1, 0, 0]
+     Sala De Estar - Portas = [1, 1, 2, 2] - Janelas = [1, 0, 0, 0]
+           Cozinha - Portas = [1, 1, 1, 1] - Janelas = [0, 1, 0, 0]
+     Sala De Jogos - Portas = [0, 1, 1, 0] - Janelas = [1, 0, 0, 1]
+    Sala De Jantar - Portas = [1, 0, 2, 0] - Janelas = [0, 1, 0, 1]
+
+GERAÇÃO 72
+Melhor fitness: 676
+Casa com melhor fitness:
+     Sala De Estar - Portas = [0, 0, 1, 1] - Janelas = [0, 0, 0, 0]
+          Banheiro - Portas = [2, 1, 2, 1] - Janelas = [0, 1, 0, 0]
+            Quarto - Portas = [0, 0, 0, 1] - Janelas = [0, 0, 1, 0]
+            Closet - Portas = [0, 0, 0, 1] - Janelas = [0, 0, 0, 0]
+    Sala De Jantar - Portas = [0, 0, 0, 1] - Janelas = [0, 1, 1, 0]
+            Quarto - Portas = [0, 0, 2, 1] - Janelas = [1, 0, 0, 0]
+    Sala De Jantar - Portas = [0, 0, 2, 1] - Janelas = [0, 0, 0, 0]
+        Lavanderia - Portas = [0, 0, 1, 1] - Janelas = [0, 1, 0, 0]
+     Sala De Estar - Portas = [1, 1, 2, 2] - Janelas = [1, 0, 0, 0]
+           Cozinha - Portas = [1, 1, 1, 1] - Janelas = [0, 1, 0, 0]
+     Sala De Jogos - Portas = [0, 1, 1, 0] - Janelas = [1, 0, 0, 1]
+    Sala De Jantar - Portas = [1, 0, 2, 0] - Janelas = [0, 1, 0, 1]
+
+GERAÇÃO 73
+Melhor fitness: 676
+Casa com melhor fitness:
+     Sala De Estar - Portas = [0, 0, 0, 1] - Janelas = [0, 0, 0, 0]
+          Banheiro - Portas = [1, 0, 0, 1] - Janelas = [0, 1, 1, 0]
+            Quarto - Portas = [0, 0, 0, 1] - Janelas = [0, 0, 1, 0]
+            Closet - Portas = [0, 0, 0, 1] - Janelas = [0, 0, 0, 0]
+    Sala De Jantar - Portas = [0, 0, 0, 1] - Janelas = [0, 1, 1, 0]
+            Quarto - Portas = [0, 0, 2, 1] - Janelas = [1, 0, 0, 0]
+    Sala De Jantar - Portas = [0, 0, 2, 1] - Janelas = [0, 1, 0, 0]
+        Lavanderia - Portas = [0, 0, 1, 1] - Janelas = [0, 1, 0, 0]
+     Sala De Estar - Portas = [1, 1, 2, 2] - Janelas = [1, 0, 0, 0]
+           Cozinha - Portas = [1, 1, 1, 1] - Janelas = [0, 1, 0, 0]
+     Sala De Jogos - Portas = [0, 1, 1, 0] - Janelas = [1, 0, 0, 1]
+    Sala De Jantar - Portas = [1, 0, 2, 0] - Janelas = [0, 1, 0, 1]
+
+GERAÇÃO 74
+Melhor fitness: 784
+Casa com melhor fitness:
+            Closet - Portas = [0, 0, 0, 1] - Janelas = [0, 0, 0, 0]
+           Cozinha - Portas = [0, 0, 0, 1] - Janelas = [0, 0, 1, 0]
+          Banheiro - Portas = [0, 0, 0, 1] - Janelas = [0, 0, 1, 0]
+            Closet - Portas = [0, 0, 0, 1] - Janelas = [0, 0, 0, 0]
+        Lavanderia - Portas = [0, 0, 0, 1] - Janelas = [0, 1, 1, 0]
+            Quarto - Portas = [0, 0, 2, 1] - Janelas = [1, 0, 0, 0]
+            Quarto - Portas = [0, 0, 2, 1] - Janelas = [0, 1, 0, 0]
+        Lavanderia - Portas = [0, 0, 1, 1] - Janelas = [0, 1, 0, 0]
+     Sala De Estar - Portas = [1, 1, 2, 2] - Janelas = [1, 0, 0, 0]
+           Cozinha - Portas = [1, 1, 1, 1] - Janelas = [0, 1, 0, 0]
+     Sala De Jogos - Portas = [0, 1, 1, 0] - Janelas = [1, 0, 0, 1]
+    Sala De Jantar - Portas = [1, 0, 2, 0] - Janelas = [0, 1, 0, 1]
+
+GERAÇÃO 75
+Melhor fitness: 784
+Casa com melhor fitness:
+            Closet - Portas = [0, 0, 0, 1] - Janelas = [0, 0, 0, 0]
+           Cozinha - Portas = [0, 0, 0, 1] - Janelas = [0, 0, 0, 0]
+     Sala De Estar - Portas = [0, 0, 0, 1] - Janelas = [0, 0, 1, 0]
+            Closet - Portas = [0, 0, 0, 1] - Janelas = [0, 0, 0, 0]
+        Lavanderia - Portas = [0, 0, 0, 1] - Janelas = [0, 1, 1, 0]
+            Quarto - Portas = [0, 0, 2, 1] - Janelas = [1, 0, 0, 0]
+            Quarto - Portas = [0, 0, 2, 1] - Janelas = [0, 1, 0, 0]
+        Lavanderia - Portas = [0, 0, 1, 1] - Janelas = [0, 1, 0, 0]
+     Sala De Estar - Portas = [1, 1, 2, 2] - Janelas = [1, 0, 0, 0]
+           Cozinha - Portas = [1, 1, 1, 1] - Janelas = [0, 1, 0, 0]
+     Sala De Jogos - Portas = [0, 1, 1, 0] - Janelas = [1, 0, 0, 1]
+    Sala De Jantar - Portas = [1, 0, 2, 0] - Janelas = [0, 1, 0, 1]
+
+GERAÇÃO 76
+Melhor fitness: 784
+Casa com melhor fitness:
+            Closet - Portas = [0, 0, 0, 1] - Janelas = [0, 0, 0, 0]
+           Cozinha - Portas = [0, 0, 0, 1] - Janelas = [0, 0, 1, 0]
+     Sala De Estar - Portas = [0, 0, 0, 1] - Janelas = [0, 0, 1, 0]
+            Closet - Portas = [0, 0, 0, 1] - Janelas = [0, 0, 0, 0]
+        Lavanderia - Portas = [0, 0, 0, 1] - Janelas = [0, 1, 1, 0]
+            Quarto - Portas = [0, 0, 2, 1] - Janelas = [1, 0, 0, 0]
+            Quarto - Portas = [0, 0, 2, 1] - Janelas = [0, 1, 0, 0]
+        Lavanderia - Portas = [0, 0, 1, 1] - Janelas = [0, 1, 0, 0]
+     Sala De Estar - Portas = [1, 1, 2, 2] - Janelas = [1, 0, 0, 0]
+           Cozinha - Portas = [1, 1, 1, 1] - Janelas = [0, 1, 0, 0]
+     Sala De Jogos - Portas = [0, 1, 1, 0] - Janelas = [1, 0, 0, 1]
+    Sala De Jantar - Portas = [1, 0, 2, 0] - Janelas = [0, 1, 0, 1]
+
+GERAÇÃO 77
+Melhor fitness: 784
+Casa com melhor fitness:
+            Quarto - Portas = [0, 0, 0, 1] - Janelas = [0, 0, 0, 0]
+     Sala De Estar - Portas = [0, 0, 0, 1] - Janelas = [0, 0, 1, 0]
+           Cozinha - Portas = [0, 0, 0, 1] - Janelas = [0, 0, 1, 0]
+            Closet - Portas = [0, 0, 0, 1] - Janelas = [0, 0, 0, 0]
+        Lavanderia - Portas = [0, 0, 0, 1] - Janelas = [0, 1, 1, 0]
+            Quarto - Portas = [0, 0, 2, 1] - Janelas = [1, 0, 0, 0]
+            Quarto - Portas = [0, 0, 2, 1] - Janelas = [0, 1, 0, 0]
+        Lavanderia - Portas = [0, 0, 1, 1] - Janelas = [0, 1, 0, 0]
+     Sala De Estar - Portas = [1, 1, 2, 2] - Janelas = [1, 0, 0, 0]
+           Cozinha - Portas = [1, 1, 1, 1] - Janelas = [0, 1, 0, 0]
+     Sala De Jogos - Portas = [0, 1, 1, 0] - Janelas = [1, 0, 0, 1]
+    Sala De Jantar - Portas = [1, 0, 2, 0] - Janelas = [0, 1, 0, 1]
+
+GERAÇÃO 78
+Melhor fitness: 784
+Casa com melhor fitness:
+     Sala De Estar - Portas = [0, 0, 0, 1] - Janelas = [0, 0, 1, 0]
+            Quarto - Portas = [0, 0, 0, 1] - Janelas = [0, 0, 1, 0]
+     Sala De Jogos - Portas = [0, 0, 0, 1] - Janelas = [0, 0, 1, 0]
+            Closet - Portas = [0, 0, 0, 1] - Janelas = [0, 0, 0, 0]
+        Lavanderia - Portas = [0, 0, 0, 1] - Janelas = [0, 1, 1, 0]
+            Quarto - Portas = [0, 0, 2, 1] - Janelas = [1, 0, 0, 0]
+            Quarto - Portas = [0, 0, 2, 1] - Janelas = [0, 1, 0, 0]
+        Lavanderia - Portas = [0, 0, 1, 1] - Janelas = [0, 1, 0, 0]
+     Sala De Estar - Portas = [1, 1, 2, 2] - Janelas = [1, 0, 0, 0]
+           Cozinha - Portas = [1, 1, 1, 1] - Janelas = [0, 1, 0, 0]
+     Sala De Jogos - Portas = [0, 1, 1, 0] - Janelas = [1, 0, 0, 1]
+    Sala De Jantar - Portas = [1, 0, 2, 0] - Janelas = [0, 1, 0, 1]
+
+GERAÇÃO 79
+Melhor fitness: 1936
+Casa com melhor fitness:
+          Banheiro - Portas = [0, 0, 0, 1] - Janelas = [0, 0, 0, 0]
+            Closet - Portas = [0, 0, 0, 1] - Janelas = [0, 0, 1, 0]
+          Banheiro - Portas = [0, 0, 0, 1] - Janelas = [0, 0, 1, 0]
+            Closet - Portas = [0, 0, 0, 1] - Janelas = [0, 0, 0, 0]
+        Lavanderia - Portas = [0, 0, 0, 1] - Janelas = [0, 1, 1, 0]
+            Quarto - Portas = [0, 0, 2, 1] - Janelas = [1, 0, 0, 0]
+            Quarto - Portas = [0, 0, 2, 1] - Janelas = [0, 1, 0, 0]
+        Lavanderia - Portas = [0, 0, 1, 1] - Janelas = [0, 1, 0, 0]
+     Sala De Estar - Portas = [1, 1, 2, 2] - Janelas = [1, 0, 0, 0]
+           Cozinha - Portas = [1, 1, 1, 1] - Janelas = [0, 1, 0, 0]
+     Sala De Jogos - Portas = [0, 1, 1, 0] - Janelas = [1, 0, 0, 1]
+    Sala De Jantar - Portas = [1, 0, 2, 0] - Janelas = [0, 1, 0, 1]
+
+GERAÇÃO 80
+Melhor fitness: 2304
+Casa com melhor fitness:
+            Closet - Portas = [0, 0, 0, 1] - Janelas = [0, 0, 0, 0]
+          Banheiro - Portas = [0, 0, 0, 1] - Janelas = [0, 0, 1, 0]
+          Banheiro - Portas = [0, 0, 0, 1] - Janelas = [0, 0, 1, 0]
+            Closet - Portas = [0, 0, 0, 1] - Janelas = [0, 0, 0, 0]
+        Lavanderia - Portas = [0, 0, 0, 1] - Janelas = [0, 1, 1, 0]
+            Quarto - Portas = [0, 0, 2, 1] - Janelas = [1, 0, 0, 0]
+            Quarto - Portas = [0, 0, 2, 1] - Janelas = [0, 1, 0, 0]
+        Lavanderia - Portas = [0, 0, 1, 1] - Janelas = [0, 1, 0, 0]
+     Sala De Estar - Portas = [1, 1, 2, 2] - Janelas = [1, 0, 0, 0]
+           Cozinha - Portas = [1, 1, 1, 1] - Janelas = [0, 1, 0, 0]
+     Sala De Jogos - Portas = [0, 1, 1, 0] - Janelas = [1, 0, 0, 1]
+    Sala De Jantar - Portas = [1, 0, 2, 0] - Janelas = [0, 1, 0, 1]
+
+
+PLANTA BAIXA
++--++{}--++{}---++{}--+
+|CL--Q   --SE   --SJO ~
+|  --    --     --    ~
++--+|    ||     ||    |
++--+|    ||     ||    |
+~B --    ||     ||    |
+~  --    ||     ||    |
++--++----+|     ||    |
++--++----+|     ||    |
+~B --Q   -|     ||    |
+~  --    -|     ||    |
++--+|    ||     |+[]--+
++--+|    ||     |+[]--+
+|CL--    |-     --SJA ~
+|  --    |-     --    ~
++--++{}--++[]---+|    |
++---++---++[]---+|    |
+~L  --L  --CO   -|    |
+~   --   --     --    |
+|   ||   ||     |-    |
++{}-++{}-++{}---++{}--+
+
+
+Legenda:
+  [] ou = : porta
+  {} ou ~ : janela
+     B    : banheiro
+     CL   : closet
+     CO   : cozinha
+     L    : lavanderia
+     Q    : quarto
+     SE   : sala de estar
+     SJA  : sala de jantar
+     SJO  : sala de jogos
